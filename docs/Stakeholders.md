@@ -22,4 +22,4 @@ Our project being a money advisor app, a key stakeholder can be represented by a
 
 ## Conclusion
 
-The team members will went and talk with the key stakeholders at the beginning of the project. We took useful information but the most important is to see how they define project success (their expectations). Then we can go and use this information to adapt our project. In this way we made a stakeholder analysis by specifying their interest, influence and expectations regarding our project. After this we saw how we can manage each customer expectations.
+The team members went and talk with the key stakeholders at the beginning of the project. We took useful information but the most important is to see how they define project success (their expectations). Then we can go and use this information to adapt our project. In this way we made a stakeholder analysis by specifying their interest, influence and expectations regarding our project. After this we saw how we can manage each customer expectations.

@@ -51,6 +51,15 @@ Found some interesting things in the terms and conditions of the site that may b
 
 //IMAGE//
 
+Inline-style: 
+![mySupermarket](https://github.com/swproj-l/docs/images/mySupermarket.jpg "mySupermarket")
+
+Reference-style: 
+![alt text][swproj-l/docs/images/mySupermarket.jpg]
+
+
+
+swproj-l/docs/images/mySupermarket.jpg
 
 ## Monzo ##
 https://monzo.com/

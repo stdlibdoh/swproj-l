@@ -1,6 +1,6 @@
-#Similar Products
+#Similar Products#
 
-##Cleo
+##Cleo##
 https://www.meetcleo.com
 Cleo is an AI similar to Siri where you communicate through text chat. 
 User makes requests like where have I spent my money this month and Cleo responds with a breakdown of where money has been spent. E.g rent and bills, shopping, eating out, entertainment.

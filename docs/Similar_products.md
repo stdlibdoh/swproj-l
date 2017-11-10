@@ -50,11 +50,8 @@ You create a food shopping list on the app or website and mySupermarket will che
 Found some interesting things in the terms and conditions of the site that may be relevant to our project, will reference in the regulations and standards document.
 
 
-Inline-style: 
 ![alt text](https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/mySupermarket.jpg "mySupermarket")
 
-
-swproj-l/docs/images/mySupermarket.jpg
 
 ## Monzo ##
 https://monzo.com/

@@ -69,7 +69,7 @@ Monzo is trying to create a new way to do banking with a purely online bank. The
 
 Inside each category is every transaction related to it or it can be viewed as each merchant used. For example, this is what the groceries section looks like:
 
-![alt text](https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/monzo_spending.png "Monzo Spending")
+![alt text](https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/monzo_spending.png =250x)
 
 Monzo also allows you to plan budgets  so you can manage and track your spending. it  will then send you “intelligent” notifications to tell you if you are spending too fast and are not likely to stay within your budget target for that month.
 

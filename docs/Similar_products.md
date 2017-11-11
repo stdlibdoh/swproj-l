@@ -85,9 +85,9 @@ This also breaks down your transactions into categories similarly to Monzo (bill
 
 Within the  categories you can set yourself budget goals, so if you want to cut down on groceries you can track how much you have left to spend for this month given the goal you have set yourself.
 
-//IMAGE//
+![alt text](https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/money_dashboard_spending.png)
 
-//IMAGE//
+![alt text](https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/money_dashboard_budgets.png)
 
 
 

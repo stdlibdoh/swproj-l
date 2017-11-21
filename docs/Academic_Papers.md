@@ -1,3 +1,11 @@
+// Possible papers for ollie to look into later:
+
+//https://www.researchgate.net/profile/Jonathan_Chen10/publication/318018393_Machine_Learning_and_Prediction_in_Medicine_-_Beyond_the_Peak_of_Inflated_Expectations/links/59dba8bc0f7e9b1460fc22ae/Machine-Learning-and-Prediction-in-Medicine-Beyond-the-Peak-of-Inflated-Expectations.pdf
+
+//https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3031796
+
+//https://www.aeaweb.org/full_issue.php?doi=10.1257/jep.31.2#page=89
+
 # Academic Papers #
 
 ## Machine learning models and bankruptcy prediction ##

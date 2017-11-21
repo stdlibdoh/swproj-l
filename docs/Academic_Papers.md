@@ -39,7 +39,7 @@ Eight techniques were applied to the datasets:
 • Logistic regression (Logit), and
 • MDA. 
 
-//table
+![alt text]( https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/ap_table7.jpg "table 7")
 
 Through the various tests ran they found that giving the program 5 years’ worth training data may not be relevant to current events. But mainly found that the three machine learning techniques: boosting, bagging and Random Forrest showed the best outcomes in all the tests with Random Forrest usually performing the best.
 

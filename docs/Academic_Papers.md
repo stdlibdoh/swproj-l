@@ -40,11 +40,17 @@ Examples of some variables are:
 
 Eight techniques were applied to the datasets:
 • Bagging,
+
 • Boosting,
+
 • Random forest (RF),
+
 • SVM with two kernels: linear (SVM-Lin) and radial basis function(SVM-RBF),
+
 • Artificial neural networks (ANN),
+
 • Logistic regression (Logit), and
+
 • MDA. 
 
 ![alt text]( https://github.com/stdlibdoh/swproj-l/blob/master/docs/images/ap_table7.jpg "table 7")

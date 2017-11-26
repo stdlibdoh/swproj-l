@@ -4,7 +4,7 @@ Our software project acts as a money planner/saver.  Before starting to develop 
 
 What is a stakeholder? It can be a man, group or organization that has interest or concern in an organization. In our case, their concern will be our software.  Some example of key stakeholders are creditors, directors, employees, owners (shareholders), suppliers, and the community from which the business draw it’s resources. Due to the fact that we are creating a university project and we don’t have creditors, directors, and so on, in our case the key stakeholders will be the customers.
  
-The best way to achieve a plan that every person (group supervisor, module leader, expert people from IT industry) which will analyze our project is to present one that meets the expectations and/or needs of the key stakeholders. Thus, the task of performing an analysis of the stakeholders’ interest cannot be relegated to one of the less important facets of the project.
+The best way to achieve a plan that every person (group supervisor, module leader, expert people from IT industry) which will analyze our project is to present one that meets the expectations and/or needs of the key stakeholders. Thus, the task of performing an analysis of the stakeholders’ interest cannot be related to one of the less important facets of the project.
 
 ## Stakeholder Analysis
 

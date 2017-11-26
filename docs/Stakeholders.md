@@ -8,11 +8,11 @@ The best way to achieve a plan that every person (group supervisor, module leade
 
 ## Stakeholder Analysis
 
-Our project is acting as a money advisor app so a stakeholder is represented by a person who is aiming to save money in a high priced area such as London. One could be a student which we all know that almost student have problems with money, and every pound counts. Another one could be a parent of two baby child and wants to find a way to pay less money on baby stuff. Another one could be a poor person who is new in London and wants to constraints his spending. We can say that our software can be used by people aged between 20 and 50 years old who are interested in saving money.
+Our project is acting as a money advisor app so a stakeholder is represented by a person who is aiming to save money in a high priced area such as London. One could be a student which we all know that almost student have problems with money, and every pound counts. Another one could be a parent of two baby child and wants to find a way to pay less money on baby stuff. Another one could be a poor person who is new in London and wants to constraints his spending. We can say that our software can be used by people aged between 18 and 50 years old who are interested in saving money.
 
 | **Name**          | **Role**  | **Intereset** | **Unique Facts**   | **Expectations**         | **Ways to manage expectations** | 
 |-------------------|:---------:|---------------|--------------------|--------------------------|-----------------------------------|
-|Elena Pricop       |System user|Low           |She's 19 years old student working part time at Costa Caffee|This customer is lookng forward to use our software |Based on this customer expectations we need to develop this software with all modules beying functional|
+|Elena Pricop       |System user|Low           |She's 19 years old student working part time at Costa Caffee|This customer is lookng forward to use our software |Based on this customer expectations we need to implement all features of the app|
 |Saju Mohsin Abedin |System user|Low         |                    |This user is looking to use the app to save money on groceries|We need to make a price comparison between diffrent markets|
 |Andras Tamas       |System user|Low           |Andras is a landlord with a lot of properties in London|He is very interested  to see how the renting feature of the app will work|Make sure that the app will have a very good, structured and easy to use renting feature|
 |Angela Mita.       |System user|Low        |A 33 years old professional working for an architecture company|Angela is excited about this new software, especially on the grocery feature|We need to implement all features of the app|

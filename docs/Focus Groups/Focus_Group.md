@@ -32,11 +32,11 @@ Group E: They prefer phone app.
 
 ## Whould you prefer the app to be stand alone(explain what does it mean) or server-client(explanin what does it mean)? ##
 
-Group A: They chosed the server-client option, they all have internet acces during the day and the last thing they want is to have their phone going slow. <br /> 
-Group B: They chosed server-client. <br />
-Group C: They chosed server-client. <br /> 
-Group D: They chosed server-client. <br />
-Group E: They chosed server-client.
+Group A: They chosed the server-client option, because they all have internet acces during the day and the last thing they want is to have their phone going slow. <br /> 
+Group B: They chosed server-client, because it does not require the user's phone to do anything in addition and using internet is not a problem. <br />
+Group C: They chosed server-client, because they do not want their phone to slowing down phone's performances. <br /> 
+Group D: They chosed server-client, because they prefer to use mobile data instead on having their phone working slow <br />
+Group E: They chosed server-client, because as the other focus groups said they prefer to "sacrifice" mobile data .
 
 ## Anything else you would like to see from thin app? ##
 

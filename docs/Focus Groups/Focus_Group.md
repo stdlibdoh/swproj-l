@@ -4,7 +4,7 @@ Group A: The whole ideea is very good in generally. <br />
 Group B: The app is a very good solution for students to save money. <br />
 Group C: Great idea, however they don't see it being very practical, in the sense they wouldn't use it a lot. <br /> 
 Group D: They enjoyed the idea but they are not sure if the rent module is necessary. <br />
-Group E: The concept sounds interesting for them.
+Group E: The concept sounds very interesting for them.
 
 ## Would you prefer fetching data or downloading bank statements and importing them? ##
 

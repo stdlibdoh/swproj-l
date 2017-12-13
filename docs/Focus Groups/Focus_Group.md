@@ -16,11 +16,11 @@ Group E: They prefer fetching data because it sounds more easy.
 
 ## Explain modules and gauge response ##
 
-Group A: They think the modules include all basic expenditures made by a normal person and if we can create the app fully functional it would be a wonderfull app to use.<br /> 
-Group B: Generally all the modules can offer the user a big perspective of how they can save money nowadays  <br />
-Group C: They prefer phone app <br /> 
-Group D: They prefer phone app. <br />
-Group E: They prefer phone app.
+Group A: They think the modules include all basic expenditures made by a normal person, and if we can create the app fully functional it would be a wonderfull software to use.<br /> 
+Group B: Generally speaking, they were very plesed about the functionality of the modules, and they realized that it can be very usefull because it can offer to the user a big perspective of how they can save money nowadays  <br />
+Group C: The group think that the app can be simplified to a easy to use version. It seems that all the modules are quite a bit complex for some of them. <br /> 
+Group D: It seems the group has no issue with the complexity and the functionality of the modules and they are looking forward to see our implementaion of this app.  <br />
+Group E: The feedback from this group was positive, but some of them think that there is no need for the Tfl module because it is already avaible. 
 
 ## Would you prefer web based or phone app ##
 

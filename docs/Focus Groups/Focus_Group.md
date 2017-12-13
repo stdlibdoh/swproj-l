@@ -51,5 +51,5 @@ Group E: They chosed server-client, because as the other focus groups said they 
 Group A: Everything looks great for them, but a tracking cash module in this app would be usefull. <br /> 
 Group B: They said that the app features sounds very interesting and if we can adapt our app to motivate and encourage the users to use it regulary would be fantastic. <br />
 Group C: They do not have anything to add. <br /> 
-Group D: They think that we can have a monzo type card because in this way the user do not need to worry about any data acces. Also the clothing module [talk with the guys about this]  <br />
+Group D: They think that we can have a monzo type card because in this way the user do not need to worry about any data acces.  <br />
 Group E: They do not have anything to add.

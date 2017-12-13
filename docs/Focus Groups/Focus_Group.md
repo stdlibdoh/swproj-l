@@ -6,4 +6,12 @@ Group C: Great idea, however they don't see it being very practical, in the sens
 Group D: They enjoyed the idea but they are not sure if the rent module is necessary. <br />
 Group E: The concept sounds interesting for them.
 
+## Would you prefer web based or phone app ##
+
+Group A: They prefer phone app. <br /> 
+Group B: They prefer phone app. <br />
+Group C: They prefer phone app <br /> 
+Group D: They prefer phone app. <br />
+Group E: They prefer phone app.
+
 

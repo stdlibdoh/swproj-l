@@ -6,6 +6,14 @@ Group C: Great idea, however they don't see it being very practical, in the sens
 Group D: They enjoyed the idea but they are not sure if the rent module is necessary. <br />
 Group E: The concept sounds interesting for them.
 
+## Would you prefer fetching data or downloading bank statements and importing them? ##
+
+Group A: They prefer fetch data because it seems more easy to use. <br /> 
+Group B: They prefer fetch data because it seemas more easy to use and it sounds more safely. <br />
+Group C: They prefer fetching data beacuse importing a bank statement looks too long to do it every time when they update their account, especially for those who are often updating it. <br /> 
+Group D: They prefer fetching data because it sounds more easy. <br />
+Group E: They prefer fetching data because it sounds more easy.
+
 ## Would you prefer web based or phone app ##
 
 Group A: They prefer phone app. <br /> 
@@ -27,5 +35,5 @@ Group E: They chosed server-client.
 Group A: Everything looks great for them, but a tracking cash module in this app would be usefull. <br /> 
 Group B: They said that the app features sounds very interesting and if we can adapt our app to motivate and encourage the users to use it regulary would be fantastic. <br />
 Group C: They do not have anything to add. <br /> 
-Group D:  <br />
-Group E: 
+Group D: They think that we can have a monzo type card because in this way the user do not need to worry about any data acces. Also the clothing module [talk with the guys about this]  <br />
+Group E: They do not have anything to add.

@@ -30,6 +30,14 @@ Group C: They prefer phone app <br />
 Group D: They prefer phone app. <br />
 Group E: They prefer phone app.
 
+## How would you see the display of the prototype? ##
+
+Group A: The current design of the prototype is working for the user but it doesn't give a very strong feeling. Every user has his own preferences regarding the desplay. <br /> 
+Group B: The group think that the concept of this design can be improved. <br />
+Group C: The design of the prototype looks promising for the real implementation of the application, and a good idea for the final design it would be to create a swipe functionality. <br /> 
+Group D: The display it it working for the user but it is nothing impressive. <br />
+Group E: The display it is working for the user but it is nothing impressive.
+
 ## Whould you prefer the app to be stand alone(explain what does it mean) or server-client(explanin what does it mean)? ##
 
 Group A: They chosed the server-client option, because they all have internet acces during the day and the last thing they want is to have their phone going slow. <br /> 

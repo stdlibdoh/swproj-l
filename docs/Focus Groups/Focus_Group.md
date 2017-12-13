@@ -14,7 +14,7 @@ Group C: They prefer fetching data beacuse importing a bank statement looks too 
 Group D: They prefer fetching data because it sounds more easy to use. <br />
 Group E: They prefer fetching data because it sounds more easy to use.
 
-## Explain modules and gauge response ##
+## Explain modules and gauge response! ##
 
 Group A: They think the modules include all basic expenditures made by a normal person, and if we can create the app fully functional it would be a wonderfull software to use.<br /> 
 Group B: Generally speaking, they were very plesed about the functionality of the modules, and they realized that it can be very usefull because it can offer to the user a big perspective of how they can save money nowadays  <br />
@@ -22,7 +22,7 @@ Group C: The group think that the app can be simplified to a easy to use version
 Group D: It seems the group has no issue with the complexity and the functionality of the modules and they are looking forward to see our implementaion of this app.  <br />
 Group E: The feedback from this group was positive, but some of them think that there is no need for the Tfl module because it is already avaible. 
 
-## Would you prefer web based or phone app ##
+## Would you prefer web based or phone app? ##
 
 Group A: They prefer phone app. <br /> 
 Group B: They prefer phone app. <br />
@@ -30,7 +30,7 @@ Group C: They prefer phone app <br />
 Group D: They prefer phone app. <br />
 Group E: They prefer phone app.
 
-## Whould you prefer the app to be stand alone(explain what does it mean) or server-client(explanin what does it mean) ? ##
+## Whould you prefer the app to be stand alone(explain what does it mean) or server-client(explanin what does it mean)? ##
 
 Group A: They chosed the server-client option, they all have internet acces during the day and the last thing they want is to have their phone going slow. <br /> 
 Group B: They chosed server-client. <br />

@@ -11,8 +11,8 @@ Group E: The concept sounds interesting for them.
 Group A: They prefer fetch data because it seems more easy to use. <br /> 
 Group B: They prefer fetch data because it seemas more easy to use and it sounds more safely. <br />
 Group C: They prefer fetching data beacuse importing a bank statement looks too long to do it every time when they update their account, especially for those who are often updating it. <br /> 
-Group D: They prefer fetching data because it sounds more easy. <br />
-Group E: They prefer fetching data because it sounds more easy.
+Group D: They prefer fetching data because it sounds more easy to use. <br />
+Group E: They prefer fetching data because it sounds more easy to use.
 
 ## Explain modules and gauge response ##
 

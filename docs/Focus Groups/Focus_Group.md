@@ -14,6 +14,14 @@ Group C: They prefer fetching data beacuse importing a bank statement looks too 
 Group D: They prefer fetching data because it sounds more easy. <br />
 Group E: They prefer fetching data because it sounds more easy.
 
+## Explain modules and gauge response ##
+
+Group A: They think the modules include all basic expenditures made by a normal person and if we can create the app fully functional it would be a wonderfull app to use.<br /> 
+Group B: Generally all the modules can offer the user a big perspective of how they can save money nowadays  <br />
+Group C: They prefer phone app <br /> 
+Group D: They prefer phone app. <br />
+Group E: They prefer phone app.
+
 ## Would you prefer web based or phone app ##
 
 Group A: They prefer phone app. <br /> 

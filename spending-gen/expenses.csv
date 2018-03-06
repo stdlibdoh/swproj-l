@@ -1,0 +1,589 @@
+Year,Month,Category,Value
+2017,January,Groceries,164
+2017,January,Rent,1300
+2017,January,Transport,92
+2017,January,Bills,95
+2017,January,Shopping,37
+2017,January,Eating Out,51
+2017,January,General,2
+2017,February,Groceries,186
+2017,February,Rent,1300
+2017,February,Transport,92
+2017,February,Bills,100
+2017,February,Shopping,30
+2017,February,Eating Out,68
+2017,February,General,1
+2017,March,Groceries,104
+2017,March,Rent,1300
+2017,March,Transport,92
+2017,March,Bills,109
+2017,March,Shopping,26
+2017,March,Eating Out,16
+2017,March,General,0
+2017,April,Groceries,160
+2017,April,Rent,1300
+2017,April,Transport,92
+2017,April,Bills,148
+2017,April,Shopping,35
+2017,April,Eating Out,15
+2017,April,General,23
+2017,May,Groceries,98
+2017,May,Rent,1300
+2017,May,Transport,92
+2017,May,Bills,85
+2017,May,Shopping,46
+2017,May,Eating Out,59
+2017,May,General,18
+2017,June,Groceries,167
+2017,June,Rent,1300
+2017,June,Transport,92
+2017,June,Bills,106
+2017,June,Shopping,28
+2017,June,Eating Out,40
+2017,June,General,3
+2017,July,Groceries,188
+2017,July,Rent,1300
+2017,July,Transport,92
+2017,July,Bills,92
+2017,July,Shopping,21
+2017,July,Eating Out,2
+2017,July,General,2
+2017,August,Groceries,163
+2017,August,Rent,1300
+2017,August,Transport,92
+2017,August,Bills,175
+2017,August,Shopping,38
+2017,August,Eating Out,77
+2017,August,General,11
+2017,September,Groceries,94
+2017,September,Rent,1300
+2017,September,Transport,92
+2017,September,Bills,86
+2017,September,Shopping,41
+2017,September,Eating Out,76
+2017,September,General,12
+2017,October,Groceries,124
+2017,October,Rent,1300
+2017,October,Transport,92
+2017,October,Bills,99
+2017,October,Shopping,35
+2017,October,Eating Out,23
+2017,October,General,23
+2017,November,Groceries,146
+2017,November,Rent,1300
+2017,November,Transport,92
+2017,November,Bills,119
+2017,November,Shopping,43
+2017,November,Eating Out,35
+2017,November,General,24
+2017,December,Groceries,123
+2017,December,Rent,1300
+2017,December,Transport,92
+2017,December,Bills,143
+2017,December,Shopping,2
+2017,December,Eating Out,3
+2017,December,General,16
+2016,January,Groceries,173
+2016,January,Rent,1300
+2016,January,Transport,92
+2016,January,Bills,175
+2016,January,Shopping,27
+2016,January,Eating Out,37
+2016,January,General,29
+2016,February,Groceries,174
+2016,February,Rent,1300
+2016,February,Transport,92
+2016,February,Bills,94
+2016,February,Shopping,47
+2016,February,Eating Out,35
+2016,February,General,2
+2016,March,Groceries,181
+2016,March,Rent,1300
+2016,March,Transport,92
+2016,March,Bills,84
+2016,March,Shopping,7
+2016,March,Eating Out,79
+2016,March,General,4
+2016,April,Groceries,183
+2016,April,Rent,1300
+2016,April,Transport,92
+2016,April,Bills,146
+2016,April,Shopping,24
+2016,April,Eating Out,28
+2016,April,General,5
+2016,May,Groceries,192
+2016,May,Rent,1300
+2016,May,Transport,92
+2016,May,Bills,91
+2016,May,Shopping,40
+2016,May,Eating Out,67
+2016,May,General,10
+2016,June,Groceries,187
+2016,June,Rent,1300
+2016,June,Transport,92
+2016,June,Bills,151
+2016,June,Shopping,47
+2016,June,Eating Out,67
+2016,June,General,16
+2016,July,Groceries,174
+2016,July,Rent,1300
+2016,July,Transport,92
+2016,July,Bills,116
+2016,July,Shopping,30
+2016,July,Eating Out,39
+2016,July,General,14
+2016,August,Groceries,104
+2016,August,Rent,1300
+2016,August,Transport,92
+2016,August,Bills,108
+2016,August,Shopping,24
+2016,August,Eating Out,61
+2016,August,General,28
+2016,September,Groceries,155
+2016,September,Rent,1300
+2016,September,Transport,92
+2016,September,Bills,168
+2016,September,Shopping,41
+2016,September,Eating Out,27
+2016,September,General,8
+2016,October,Groceries,97
+2016,October,Rent,1300
+2016,October,Transport,92
+2016,October,Bills,110
+2016,October,Shopping,38
+2016,October,Eating Out,22
+2016,October,General,3
+2016,November,Groceries,111
+2016,November,Rent,1300
+2016,November,Transport,92
+2016,November,Bills,152
+2016,November,Shopping,8
+2016,November,Eating Out,73
+2016,November,General,26
+2016,December,Groceries,99
+2016,December,Rent,1300
+2016,December,Transport,92
+2016,December,Bills,94
+2016,December,Shopping,16
+2016,December,Eating Out,77
+2016,December,General,29
+2015,January,Groceries,162
+2015,January,Rent,1300
+2015,January,Transport,92
+2015,January,Bills,175
+2015,January,Shopping,22
+2015,January,Eating Out,53
+2015,January,General,10
+2015,February,Groceries,155
+2015,February,Rent,1300
+2015,February,Transport,92
+2015,February,Bills,158
+2015,February,Shopping,5
+2015,February,Eating Out,0
+2015,February,General,18
+2015,March,Groceries,151
+2015,March,Rent,1300
+2015,March,Transport,92
+2015,March,Bills,179
+2015,March,Shopping,20
+2015,March,Eating Out,10
+2015,March,General,4
+2015,April,Groceries,119
+2015,April,Rent,1300
+2015,April,Transport,92
+2015,April,Bills,105
+2015,April,Shopping,5
+2015,April,Eating Out,42
+2015,April,General,21
+2015,May,Groceries,135
+2015,May,Rent,1300
+2015,May,Transport,92
+2015,May,Bills,124
+2015,May,Shopping,34
+2015,May,Eating Out,50
+2015,May,General,2
+2015,June,Groceries,186
+2015,June,Rent,1300
+2015,June,Transport,92
+2015,June,Bills,120
+2015,June,Shopping,15
+2015,June,Eating Out,56
+2015,June,General,4
+2015,July,Groceries,180
+2015,July,Rent,1300
+2015,July,Transport,92
+2015,July,Bills,164
+2015,July,Shopping,38
+2015,July,Eating Out,58
+2015,July,General,16
+2015,August,Groceries,187
+2015,August,Rent,1300
+2015,August,Transport,92
+2015,August,Bills,141
+2015,August,Shopping,29
+2015,August,Eating Out,74
+2015,August,General,28
+2015,September,Groceries,94
+2015,September,Rent,1300
+2015,September,Transport,92
+2015,September,Bills,107
+2015,September,Shopping,14
+2015,September,Eating Out,45
+2015,September,General,11
+2015,October,Groceries,140
+2015,October,Rent,1300
+2015,October,Transport,92
+2015,October,Bills,148
+2015,October,Shopping,27
+2015,October,Eating Out,3
+2015,October,General,4
+2015,November,Groceries,108
+2015,November,Rent,1300
+2015,November,Transport,92
+2015,November,Bills,160
+2015,November,Shopping,22
+2015,November,Eating Out,61
+2015,November,General,7
+2015,December,Groceries,170
+2015,December,Rent,1300
+2015,December,Transport,92
+2015,December,Bills,137
+2015,December,Shopping,0
+2015,December,Eating Out,50
+2015,December,General,14
+2014,January,Groceries,156
+2014,January,Rent,1300
+2014,January,Transport,92
+2014,January,Bills,115
+2014,January,Shopping,28
+2014,January,Eating Out,47
+2014,January,General,19
+2014,February,Groceries,148
+2014,February,Rent,1300
+2014,February,Transport,92
+2014,February,Bills,122
+2014,February,Shopping,5
+2014,February,Eating Out,39
+2014,February,General,26
+2014,March,Groceries,137
+2014,March,Rent,1300
+2014,March,Transport,92
+2014,March,Bills,119
+2014,March,Shopping,26
+2014,March,Eating Out,44
+2014,March,General,22
+2014,April,Groceries,142
+2014,April,Rent,1300
+2014,April,Transport,92
+2014,April,Bills,179
+2014,April,Shopping,24
+2014,April,Eating Out,48
+2014,April,General,26
+2014,May,Groceries,163
+2014,May,Rent,1300
+2014,May,Transport,92
+2014,May,Bills,179
+2014,May,Shopping,14
+2014,May,Eating Out,50
+2014,May,General,25
+2014,June,Groceries,105
+2014,June,Rent,1300
+2014,June,Transport,92
+2014,June,Bills,88
+2014,June,Shopping,12
+2014,June,Eating Out,36
+2014,June,General,5
+2014,July,Groceries,101
+2014,July,Rent,1300
+2014,July,Transport,92
+2014,July,Bills,148
+2014,July,Shopping,25
+2014,July,Eating Out,3
+2014,July,General,18
+2014,August,Groceries,145
+2014,August,Rent,1300
+2014,August,Transport,92
+2014,August,Bills,144
+2014,August,Shopping,33
+2014,August,Eating Out,34
+2014,August,General,7
+2014,September,Groceries,139
+2014,September,Rent,1300
+2014,September,Transport,92
+2014,September,Bills,103
+2014,September,Shopping,11
+2014,September,Eating Out,77
+2014,September,General,27
+2014,October,Groceries,94
+2014,October,Rent,1300
+2014,October,Transport,92
+2014,October,Bills,152
+2014,October,Shopping,30
+2014,October,Eating Out,32
+2014,October,General,10
+2014,November,Groceries,164
+2014,November,Rent,1300
+2014,November,Transport,92
+2014,November,Bills,170
+2014,November,Shopping,39
+2014,November,Eating Out,33
+2014,November,General,17
+2014,December,Groceries,102
+2014,December,Rent,1300
+2014,December,Transport,92
+2014,December,Bills,95
+2014,December,Shopping,36
+2014,December,Eating Out,76
+2014,December,General,21
+2013,January,Groceries,95
+2013,January,Rent,1300
+2013,January,Transport,92
+2013,January,Bills,152
+2013,January,Shopping,8
+2013,January,Eating Out,34
+2013,January,General,21
+2013,February,Groceries,179
+2013,February,Rent,1300
+2013,February,Transport,92
+2013,February,Bills,100
+2013,February,Shopping,43
+2013,February,Eating Out,61
+2013,February,General,25
+2013,March,Groceries,125
+2013,March,Rent,1300
+2013,March,Transport,92
+2013,March,Bills,115
+2013,March,Shopping,19
+2013,March,Eating Out,78
+2013,March,General,17
+2013,April,Groceries,99
+2013,April,Rent,1300
+2013,April,Transport,92
+2013,April,Bills,140
+2013,April,Shopping,48
+2013,April,Eating Out,11
+2013,April,General,3
+2013,May,Groceries,110
+2013,May,Rent,1300
+2013,May,Transport,92
+2013,May,Bills,106
+2013,May,Shopping,8
+2013,May,Eating Out,53
+2013,May,General,23
+2013,June,Groceries,147
+2013,June,Rent,1300
+2013,June,Transport,92
+2013,June,Bills,152
+2013,June,Shopping,19
+2013,June,Eating Out,60
+2013,June,General,25
+2013,July,Groceries,104
+2013,July,Rent,1300
+2013,July,Transport,92
+2013,July,Bills,129
+2013,July,Shopping,29
+2013,July,Eating Out,41
+2013,July,General,21
+2013,August,Groceries,119
+2013,August,Rent,1300
+2013,August,Transport,92
+2013,August,Bills,92
+2013,August,Shopping,11
+2013,August,Eating Out,79
+2013,August,General,26
+2013,September,Groceries,169
+2013,September,Rent,1300
+2013,September,Transport,92
+2013,September,Bills,130
+2013,September,Shopping,42
+2013,September,Eating Out,58
+2013,September,General,28
+2013,October,Groceries,183
+2013,October,Rent,1300
+2013,October,Transport,92
+2013,October,Bills,140
+2013,October,Shopping,13
+2013,October,Eating Out,43
+2013,October,General,11
+2013,November,Groceries,194
+2013,November,Rent,1300
+2013,November,Transport,92
+2013,November,Bills,139
+2013,November,Shopping,21
+2013,November,Eating Out,56
+2013,November,General,14
+2013,December,Groceries,165
+2013,December,Rent,1300
+2013,December,Transport,92
+2013,December,Bills,172
+2013,December,Shopping,31
+2013,December,Eating Out,13
+2013,December,General,26
+2012,January,Groceries,121
+2012,January,Rent,1300
+2012,January,Transport,92
+2012,January,Bills,85
+2012,January,Shopping,36
+2012,January,Eating Out,66
+2012,January,General,0
+2012,February,Groceries,96
+2012,February,Rent,1300
+2012,February,Transport,92
+2012,February,Bills,89
+2012,February,Shopping,18
+2012,February,Eating Out,36
+2012,February,General,10
+2012,March,Groceries,160
+2012,March,Rent,1300
+2012,March,Transport,92
+2012,March,Bills,136
+2012,March,Shopping,9
+2012,March,Eating Out,19
+2012,March,General,9
+2012,April,Groceries,177
+2012,April,Rent,1300
+2012,April,Transport,92
+2012,April,Bills,141
+2012,April,Shopping,26
+2012,April,Eating Out,12
+2012,April,General,18
+2012,May,Groceries,187
+2012,May,Rent,1300
+2012,May,Transport,92
+2012,May,Bills,109
+2012,May,Shopping,8
+2012,May,Eating Out,49
+2012,May,General,4
+2012,June,Groceries,144
+2012,June,Rent,1300
+2012,June,Transport,92
+2012,June,Bills,166
+2012,June,Shopping,27
+2012,June,Eating Out,29
+2012,June,General,10
+2012,July,Groceries,158
+2012,July,Rent,1300
+2012,July,Transport,92
+2012,July,Bills,150
+2012,July,Shopping,25
+2012,July,Eating Out,31
+2012,July,General,0
+2012,August,Groceries,189
+2012,August,Rent,1300
+2012,August,Transport,92
+2012,August,Bills,119
+2012,August,Shopping,27
+2012,August,Eating Out,76
+2012,August,General,11
+2012,September,Groceries,139
+2012,September,Rent,1300
+2012,September,Transport,92
+2012,September,Bills,141
+2012,September,Shopping,15
+2012,September,Eating Out,69
+2012,September,General,2
+2012,October,Groceries,185
+2012,October,Rent,1300
+2012,October,Transport,92
+2012,October,Bills,93
+2012,October,Shopping,31
+2012,October,Eating Out,53
+2012,October,General,4
+2012,November,Groceries,178
+2012,November,Rent,1300
+2012,November,Transport,92
+2012,November,Bills,174
+2012,November,Shopping,21
+2012,November,Eating Out,58
+2012,November,General,16
+2012,December,Groceries,163
+2012,December,Rent,1300
+2012,December,Transport,92
+2012,December,Bills,92
+2012,December,Shopping,9
+2012,December,Eating Out,78
+2012,December,General,12
+2011,January,Groceries,163
+2011,January,Rent,1300
+2011,January,Transport,92
+2011,January,Bills,168
+2011,January,Shopping,35
+2011,January,Eating Out,72
+2011,January,General,18
+2011,February,Groceries,164
+2011,February,Rent,1300
+2011,February,Transport,92
+2011,February,Bills,115
+2011,February,Shopping,25
+2011,February,Eating Out,49
+2011,February,General,21
+2011,March,Groceries,91
+2011,March,Rent,1300
+2011,March,Transport,92
+2011,March,Bills,129
+2011,March,Shopping,11
+2011,March,Eating Out,67
+2011,March,General,3
+2011,April,Groceries,187
+2011,April,Rent,1300
+2011,April,Transport,92
+2011,April,Bills,154
+2011,April,Shopping,20
+2011,April,Eating Out,2
+2011,April,General,17
+2011,May,Groceries,143
+2011,May,Rent,1300
+2011,May,Transport,92
+2011,May,Bills,117
+2011,May,Shopping,11
+2011,May,Eating Out,44
+2011,May,General,12
+2011,June,Groceries,140
+2011,June,Rent,1300
+2011,June,Transport,92
+2011,June,Bills,122
+2011,June,Shopping,37
+2011,June,Eating Out,71
+2011,June,General,16
+2011,July,Groceries,185
+2011,July,Rent,1300
+2011,July,Transport,92
+2011,July,Bills,138
+2011,July,Shopping,0
+2011,July,Eating Out,11
+2011,July,General,12
+2011,August,Groceries,92
+2011,August,Rent,1300
+2011,August,Transport,92
+2011,August,Bills,151
+2011,August,Shopping,42
+2011,August,Eating Out,72
+2011,August,General,18
+2011,September,Groceries,109
+2011,September,Rent,1300
+2011,September,Transport,92
+2011,September,Bills,144
+2011,September,Shopping,23
+2011,September,Eating Out,26
+2011,September,General,21
+2011,October,Groceries,189
+2011,October,Rent,1300
+2011,October,Transport,92
+2011,October,Bills,139
+2011,October,Shopping,37
+2011,October,Eating Out,33
+2011,October,General,20
+2011,November,Groceries,136
+2011,November,Rent,1300
+2011,November,Transport,92
+2011,November,Bills,146
+2011,November,Shopping,15
+2011,November,Eating Out,0
+2011,November,General,10
+2011,December,Groceries,190
+2011,December,Rent,1300
+2011,December,Transport,92
+2011,December,Bills,151
+2011,December,Shopping,42
+2011,December,Eating Out,25
+2011,December,General,4

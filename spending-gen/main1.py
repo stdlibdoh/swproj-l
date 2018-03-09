@@ -3,7 +3,7 @@ import random
 import math
 
 def disposableincome():
-    with open('disposable.csv', 'w', newline='') as csv_file:
+    with open('disposable1.csv', 'w', newline='') as csv_file:
         disposableincome = csv.writer(csv_file, delimiter=',')
         monthlength = [31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31]
         incomeleft = 0

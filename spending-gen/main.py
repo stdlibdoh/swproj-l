@@ -3,7 +3,6 @@
 # Need to add an income tag
 
 # disposableincome related
-# it's shite
 # Groceries, rent, transport, bills, shopping, eating out, general, income
 # can't believe i forgot a pen
 # random number between 0 and 10

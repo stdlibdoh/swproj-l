@@ -1,0 +1,1057 @@
+Day,Month,Year,Description,Category,Value,Balance
+1,January,2018,Rhino Sports salary,General,1700,1700
+4,January,2018,Sainsburys,Groceries,82,1618
+7,January,2018,Cubit and West rent,Rent,660,958
+11,January,2018,Waitrose,Groceries,78,880
+15,January,2018,BRGAS-Electricity,Bills,21,859
+15,January,2018,BRGAS-Gas,Bills,60,799
+16,January,2018,LBS Council Tax,Bills,50,749
+18,January,2018,Sainsburys,Groceries,49,700
+20,January,2018,VIRGIN MEDIA PYMTS,Bills,36,664
+24,January,2018,02,Bills,34,630
+25,January,2018,ASDA,Groceries,71,559
+1,February,2018,Rhino Sports salary,General,1700,2259
+4,February,2018,Morrisons,Groceries,62,2197
+7,February,2018,Cubit and West rent,Rent,660,1537
+11,February,2018,Sainsburys,Groceries,63,1474
+15,February,2018,BRGAS-Electricity,Bills,74,1400
+15,February,2018,BRGAS-Gas,Bills,48,1352
+16,February,2018,LBS Council Tax,Bills,50,1302
+18,February,2018,Sainsburys,Groceries,44,1258
+20,February,2018,VIRGIN MEDIA PYMTS,Bills,36,1222
+24,February,2018,02,Bills,33,1189
+25,February,2018,Morrisons,Groceries,72,1117
+1,March,2018,Rhino Sports salary,General,1700,2817
+4,March,2018,ASDA,Groceries,86,2731
+7,March,2018,Cubit and West rent,Rent,660,2071
+11,March,2018,Morrisons,Groceries,62,2009
+15,March,2018,BRGAS-Electricity,Bills,44,1965
+15,March,2018,BRGAS-Gas,Bills,44,1921
+16,March,2018,LBS Council Tax,Bills,50,1871
+18,March,2018,Morrisons,Groceries,79,1792
+20,March,2018,VIRGIN MEDIA PYMTS,Bills,50,1742
+24,March,2018,02,Bills,36,1706
+25,March,2018,Tescos,Groceries,76,1630
+1,April,2018,Rhino Sports salary,General,1700,3330
+4,April,2018,Tescos,Groceries,57,3273
+7,April,2018,Cubit and West rent,Rent,660,2613
+11,April,2018,ASDA,Groceries,63,2550
+15,April,2018,BRGAS-Electricity,Bills,30,2520
+15,April,2018,BRGAS-Gas,Bills,34,2486
+16,April,2018,LBS Council Tax,Bills,50,2436
+18,April,2018,Morrisons,Groceries,71,2365
+20,April,2018,VIRGIN MEDIA PYMTS,Bills,28,2337
+24,April,2018,02,Bills,32,2305
+25,April,2018,ASDA,Groceries,52,2253
+1,May,2018,Rhino Sports salary,General,1700,3953
+4,May,2018,Sainsburys,Groceries,53,3900
+7,May,2018,Cubit and West rent,Rent,660,3240
+11,May,2018,Waitrose,Groceries,84,3156
+15,May,2018,BRGAS-Electricity,Bills,25,3131
+15,May,2018,BRGAS-Gas,Bills,27,3104
+16,May,2018,LBS Council Tax,Bills,50,3054
+18,May,2018,Morrisons,Groceries,68,2986
+20,May,2018,VIRGIN MEDIA PYMTS,Bills,35,2951
+24,May,2018,02,Bills,37,2914
+25,May,2018,Sainsburys,Groceries,44,2870
+1,June,2018,Rhino Sports salary,General,1700,4570
+4,June,2018,Waitrose,Groceries,43,4527
+7,June,2018,Cubit and West rent,Rent,660,3867
+11,June,2018,Sainsburys,Groceries,74,3793
+15,June,2018,BRGAS-Electricity,Bills,42,3751
+15,June,2018,BRGAS-Gas,Bills,28,3723
+16,June,2018,LBS Council Tax,Bills,50,3673
+18,June,2018,Morrisons,Groceries,81,3592
+20,June,2018,VIRGIN MEDIA PYMTS,Bills,54,3538
+24,June,2018,02,Bills,38,3500
+25,June,2018,Morrisons,Groceries,49,3451
+1,July,2018,Rhino Sports salary,General,1700,5151
+4,July,2018,Tescos,Groceries,80,5071
+7,July,2018,Cubit and West rent,Rent,660,4411
+11,July,2018,ASDA,Groceries,76,4335
+15,July,2018,BRGAS-Electricity,Bills,31,4304
+15,July,2018,BRGAS-Gas,Bills,21,4283
+16,July,2018,LBS Council Tax,Bills,50,4233
+18,July,2018,Morrisons,Groceries,79,4154
+20,July,2018,VIRGIN MEDIA PYMTS,Bills,32,4122
+24,July,2018,02,Bills,30,4092
+25,July,2018,Sainsburys,Groceries,79,4013
+1,August,2018,Rhino Sports salary,General,1700,5713
+4,August,2018,Morrisons,Groceries,56,5657
+7,August,2018,Cubit and West rent,Rent,660,4997
+11,August,2018,Tescos,Groceries,84,4913
+15,August,2018,BRGAS-Electricity,Bills,33,4880
+15,August,2018,BRGAS-Gas,Bills,23,4857
+16,August,2018,LBS Council Tax,Bills,50,4807
+18,August,2018,Sainsburys,Groceries,89,4718
+20,August,2018,VIRGIN MEDIA PYMTS,Bills,30,4688
+24,August,2018,02,Bills,38,4650
+25,August,2018,Tescos,Groceries,43,4607
+1,September,2018,Rhino Sports salary,General,1700,6307
+4,September,2018,Sainsburys,Groceries,58,6249
+7,September,2018,Cubit and West rent,Rent,660,5589
+11,September,2018,Tescos,Groceries,69,5520
+15,September,2018,BRGAS-Electricity,Bills,37,5483
+15,September,2018,BRGAS-Gas,Bills,26,5457
+16,September,2018,LBS Council Tax,Bills,50,5407
+18,September,2018,Tescos,Groceries,46,5361
+20,September,2018,VIRGIN MEDIA PYMTS,Bills,59,5302
+24,September,2018,02,Bills,37,5265
+25,September,2018,Waitrose,Groceries,55,5210
+1,October,2018,Rhino Sports salary,General,1700,6910
+4,October,2018,Tescos,Groceries,54,6856
+7,October,2018,Cubit and West rent,Rent,660,6196
+11,October,2018,Morrisons,Groceries,59,6137
+15,October,2018,BRGAS-Electricity,Bills,37,6100
+15,October,2018,BRGAS-Gas,Bills,26,6074
+16,October,2018,LBS Council Tax,Bills,50,6024
+18,October,2018,Tescos,Groceries,64,5960
+20,October,2018,VIRGIN MEDIA PYMTS,Bills,30,5930
+24,October,2018,02,Bills,30,5900
+25,October,2018,Waitrose,Groceries,57,5843
+1,November,2018,Rhino Sports salary,General,1700,7543
+4,November,2018,Morrisons,Groceries,71,7472
+7,November,2018,Cubit and West rent,Rent,660,6812
+11,November,2018,Sainsburys,Groceries,70,6742
+15,November,2018,BRGAS-Electricity,Bills,44,6698
+15,November,2018,BRGAS-Gas,Bills,26,6672
+16,November,2018,LBS Council Tax,Bills,50,6622
+18,November,2018,Sainsburys,Groceries,49,6573
+20,November,2018,VIRGIN MEDIA PYMTS,Bills,51,6522
+24,November,2018,02,Bills,38,6484
+25,November,2018,ASDA,Groceries,60,6424
+1,December,2018,Rhino Sports salary,General,1700,8124
+4,December,2018,Morrisons,Groceries,52,8072
+7,December,2018,Cubit and West rent,Rent,660,7412
+11,December,2018,Tescos,Groceries,85,7327
+15,December,2018,BRGAS-Electricity,Bills,69,7258
+15,December,2018,BRGAS-Gas,Bills,63,7195
+16,December,2018,LBS Council Tax,Bills,50,7145
+18,December,2018,Morrisons,Groceries,56,7089
+20,December,2018,VIRGIN MEDIA PYMTS,Bills,28,7061
+24,December,2018,02,Bills,32,7029
+25,December,2018,ASDA,Groceries,49,6980
+1,January,2017,Rhino Sports salary,General,1700,8680
+4,January,2017,Morrisons,Groceries,54,8626
+7,January,2017,Cubit and West rent,Rent,660,7966
+11,January,2017,Tescos,Groceries,48,7918
+15,January,2017,BRGAS-Electricity,Bills,41,7877
+15,January,2017,BRGAS-Gas,Bills,40,7837
+16,January,2017,LBS Council Tax,Bills,50,7787
+18,January,2017,Tescos,Groceries,58,7729
+20,January,2017,VIRGIN MEDIA PYMTS,Bills,42,7687
+24,January,2017,02,Bills,34,7653
+25,January,2017,Morrisons,Groceries,86,7567
+1,February,2017,Rhino Sports salary,General,1700,9267
+4,February,2017,Tescos,Groceries,65,9202
+7,February,2017,Cubit and West rent,Rent,660,8542
+11,February,2017,Morrisons,Groceries,63,8479
+15,February,2017,BRGAS-Electricity,Bills,41,8438
+15,February,2017,BRGAS-Gas,Bills,75,8363
+16,February,2017,LBS Council Tax,Bills,50,8313
+18,February,2017,Tescos,Groceries,67,8246
+20,February,2017,VIRGIN MEDIA PYMTS,Bills,38,8208
+24,February,2017,02,Bills,33,8175
+25,February,2017,ASDA,Groceries,86,8089
+1,March,2017,Rhino Sports salary,General,1700,9789
+4,March,2017,Morrisons,Groceries,49,9740
+7,March,2017,Cubit and West rent,Rent,660,9080
+11,March,2017,Waitrose,Groceries,55,9025
+15,March,2017,BRGAS-Electricity,Bills,42,8983
+15,March,2017,BRGAS-Gas,Bills,24,8959
+16,March,2017,LBS Council Tax,Bills,50,8909
+18,March,2017,Waitrose,Groceries,59,8850
+20,March,2017,VIRGIN MEDIA PYMTS,Bills,51,8799
+24,March,2017,02,Bills,32,8767
+25,March,2017,Tescos,Groceries,79,8688
+1,April,2017,Rhino Sports salary,General,1700,10388
+4,April,2017,Morrisons,Groceries,63,10325
+7,April,2017,Cubit and West rent,Rent,660,9665
+11,April,2017,Sainsburys,Groceries,85,9580
+15,April,2017,BRGAS-Electricity,Bills,44,9536
+15,April,2017,BRGAS-Gas,Bills,36,9500
+16,April,2017,LBS Council Tax,Bills,50,9450
+18,April,2017,ASDA,Groceries,79,9371
+20,April,2017,VIRGIN MEDIA PYMTS,Bills,31,9340
+24,April,2017,02,Bills,36,9304
+25,April,2017,Sainsburys,Groceries,53,9251
+1,May,2017,Rhino Sports salary,General,1700,10951
+4,May,2017,Sainsburys,Groceries,44,10907
+7,May,2017,Cubit and West rent,Rent,660,10247
+11,May,2017,Morrisons,Groceries,77,10170
+15,May,2017,BRGAS-Electricity,Bills,44,10126
+15,May,2017,BRGAS-Gas,Bills,40,10086
+16,May,2017,LBS Council Tax,Bills,50,10036
+18,May,2017,Morrisons,Groceries,56,9980
+20,May,2017,VIRGIN MEDIA PYMTS,Bills,32,9948
+24,May,2017,02,Bills,32,9916
+25,May,2017,Waitrose,Groceries,57,9859
+1,June,2017,Rhino Sports salary,General,1700,11559
+4,June,2017,ASDA,Groceries,82,11477
+7,June,2017,Cubit and West rent,Rent,660,10817
+11,June,2017,Tescos,Groceries,61,10756
+15,June,2017,BRGAS-Electricity,Bills,41,10715
+15,June,2017,BRGAS-Gas,Bills,25,10690
+16,June,2017,LBS Council Tax,Bills,50,10640
+18,June,2017,Morrisons,Groceries,73,10567
+20,June,2017,VIRGIN MEDIA PYMTS,Bills,53,10514
+24,June,2017,02,Bills,32,10482
+25,June,2017,Morrisons,Groceries,89,10393
+1,July,2017,Rhino Sports salary,General,1700,12093
+4,July,2017,Sainsburys,Groceries,58,12035
+7,July,2017,Cubit and West rent,Rent,660,11375
+11,July,2017,Tescos,Groceries,71,11304
+15,July,2017,BRGAS-Electricity,Bills,33,11271
+15,July,2017,BRGAS-Gas,Bills,34,11237
+16,July,2017,LBS Council Tax,Bills,50,11187
+18,July,2017,Morrisons,Groceries,48,11139
+20,July,2017,VIRGIN MEDIA PYMTS,Bills,38,11101
+24,July,2017,02,Bills,31,11070
+25,July,2017,Sainsburys,Groceries,55,11015
+1,August,2017,Rhino Sports salary,General,1700,12715
+4,August,2017,Sainsburys,Groceries,60,12655
+7,August,2017,Cubit and West rent,Rent,660,11995
+11,August,2017,Waitrose,Groceries,70,11925
+15,August,2017,BRGAS-Electricity,Bills,40,11885
+15,August,2017,BRGAS-Gas,Bills,34,11851
+16,August,2017,LBS Council Tax,Bills,50,11801
+18,August,2017,Waitrose,Groceries,58,11743
+20,August,2017,VIRGIN MEDIA PYMTS,Bills,30,11713
+24,August,2017,02,Bills,38,11675
+25,August,2017,Waitrose,Groceries,68,11607
+1,September,2017,Rhino Sports salary,General,1700,13307
+4,September,2017,Morrisons,Groceries,51,13256
+7,September,2017,Cubit and West rent,Rent,660,12596
+11,September,2017,Sainsburys,Groceries,72,12524
+15,September,2017,BRGAS-Electricity,Bills,32,12492
+15,September,2017,BRGAS-Gas,Bills,40,12452
+16,September,2017,LBS Council Tax,Bills,50,12402
+18,September,2017,ASDA,Groceries,89,12313
+20,September,2017,VIRGIN MEDIA PYMTS,Bills,49,12264
+24,September,2017,02,Bills,33,12231
+25,September,2017,Waitrose,Groceries,74,12157
+1,October,2017,Rhino Sports salary,General,1700,13857
+4,October,2017,Morrisons,Groceries,79,13778
+7,October,2017,Cubit and West rent,Rent,660,13118
+11,October,2017,Morrisons,Groceries,88,13030
+15,October,2017,BRGAS-Electricity,Bills,30,13000
+15,October,2017,BRGAS-Gas,Bills,39,12961
+16,October,2017,LBS Council Tax,Bills,50,12911
+18,October,2017,Waitrose,Groceries,59,12852
+20,October,2017,VIRGIN MEDIA PYMTS,Bills,35,12817
+24,October,2017,02,Bills,36,12781
+25,October,2017,Tescos,Groceries,47,12734
+1,November,2017,Rhino Sports salary,General,1700,14434
+4,November,2017,Tescos,Groceries,74,14360
+7,November,2017,Cubit and West rent,Rent,660,13700
+11,November,2017,Tescos,Groceries,74,13626
+15,November,2017,BRGAS-Electricity,Bills,38,13588
+15,November,2017,BRGAS-Gas,Bills,38,13550
+16,November,2017,LBS Council Tax,Bills,50,13500
+18,November,2017,Sainsburys,Groceries,46,13454
+20,November,2017,VIRGIN MEDIA PYMTS,Bills,48,13406
+24,November,2017,02,Bills,38,13368
+25,November,2017,Tescos,Groceries,85,13283
+1,December,2017,Rhino Sports salary,General,1700,14983
+4,December,2017,Waitrose,Groceries,76,14907
+7,December,2017,Cubit and West rent,Rent,660,14247
+11,December,2017,Sainsburys,Groceries,69,14178
+15,December,2017,BRGAS-Electricity,Bills,47,14131
+15,December,2017,BRGAS-Gas,Bills,58,14073
+16,December,2017,LBS Council Tax,Bills,50,14023
+18,December,2017,ASDA,Groceries,81,13942
+20,December,2017,VIRGIN MEDIA PYMTS,Bills,54,13888
+24,December,2017,02,Bills,30,13858
+25,December,2017,Waitrose,Groceries,51,13807
+1,January,2016,Rhino Sports salary,General,1700,15507
+4,January,2016,ASDA,Groceries,84,15423
+7,January,2016,Cubit and West rent,Rent,660,14763
+11,January,2016,Morrisons,Groceries,86,14677
+15,January,2016,BRGAS-Electricity,Bills,30,14647
+15,January,2016,BRGAS-Gas,Bills,55,14592
+16,January,2016,LBS Council Tax,Bills,50,14542
+18,January,2016,Morrisons,Groceries,55,14487
+20,January,2016,VIRGIN MEDIA PYMTS,Bills,35,14452
+24,January,2016,02,Bills,33,14419
+25,January,2016,Waitrose,Groceries,59,14360
+1,February,2016,Rhino Sports salary,General,1700,16060
+4,February,2016,Sainsburys,Groceries,53,16007
+7,February,2016,Cubit and West rent,Rent,660,15347
+11,February,2016,ASDA,Groceries,69,15278
+15,February,2016,BRGAS-Electricity,Bills,52,15226
+15,February,2016,BRGAS-Gas,Bills,36,15190
+16,February,2016,LBS Council Tax,Bills,50,15140
+18,February,2016,Sainsburys,Groceries,46,15094
+20,February,2016,VIRGIN MEDIA PYMTS,Bills,42,15052
+24,February,2016,02,Bills,33,15019
+25,February,2016,ASDA,Groceries,85,14934
+1,March,2016,Rhino Sports salary,General,1700,16634
+4,March,2016,Sainsburys,Groceries,49,16585
+7,March,2016,Cubit and West rent,Rent,660,15925
+11,March,2016,ASDA,Groceries,64,15861
+15,March,2016,BRGAS-Electricity,Bills,23,15838
+15,March,2016,BRGAS-Gas,Bills,40,15798
+16,March,2016,LBS Council Tax,Bills,50,15748
+18,March,2016,Sainsburys,Groceries,83,15665
+20,March,2016,VIRGIN MEDIA PYMTS,Bills,52,15613
+24,March,2016,02,Bills,37,15576
+25,March,2016,Waitrose,Groceries,79,15497
+1,April,2016,Rhino Sports salary,General,1700,17197
+4,April,2016,ASDA,Groceries,64,17133
+7,April,2016,Cubit and West rent,Rent,660,16473
+11,April,2016,Tescos,Groceries,73,16400
+15,April,2016,BRGAS-Electricity,Bills,32,16368
+15,April,2016,BRGAS-Gas,Bills,34,16334
+16,April,2016,LBS Council Tax,Bills,50,16284
+18,April,2016,Tescos,Groceries,89,16195
+20,April,2016,VIRGIN MEDIA PYMTS,Bills,35,16160
+24,April,2016,02,Bills,31,16129
+25,April,2016,Morrisons,Groceries,73,16056
+1,May,2016,Rhino Sports salary,General,1700,17756
+4,May,2016,ASDA,Groceries,62,17694
+7,May,2016,Cubit and West rent,Rent,660,17034
+11,May,2016,Waitrose,Groceries,80,16954
+15,May,2016,BRGAS-Electricity,Bills,43,16911
+15,May,2016,BRGAS-Gas,Bills,30,16881
+16,May,2016,LBS Council Tax,Bills,50,16831
+18,May,2016,Sainsburys,Groceries,55,16776
+20,May,2016,VIRGIN MEDIA PYMTS,Bills,58,16718
+24,May,2016,02,Bills,38,16680
+25,May,2016,ASDA,Groceries,84,16596
+1,June,2016,Rhino Sports salary,General,1700,18296
+4,June,2016,Sainsburys,Groceries,66,18230
+7,June,2016,Cubit and West rent,Rent,660,17570
+11,June,2016,Morrisons,Groceries,73,17497
+15,June,2016,BRGAS-Electricity,Bills,42,17455
+15,June,2016,BRGAS-Gas,Bills,37,17418
+16,June,2016,LBS Council Tax,Bills,50,17368
+18,June,2016,ASDA,Groceries,63,17305
+20,June,2016,VIRGIN MEDIA PYMTS,Bills,55,17250
+24,June,2016,02,Bills,38,17212
+25,June,2016,Sainsburys,Groceries,87,17125
+1,July,2016,Rhino Sports salary,General,1700,18825
+4,July,2016,Morrisons,Groceries,49,18776
+7,July,2016,Cubit and West rent,Rent,660,18116
+11,July,2016,Waitrose,Groceries,76,18040
+15,July,2016,BRGAS-Electricity,Bills,39,18001
+15,July,2016,BRGAS-Gas,Bills,22,17979
+16,July,2016,LBS Council Tax,Bills,50,17929
+18,July,2016,Waitrose,Groceries,86,17843
+20,July,2016,VIRGIN MEDIA PYMTS,Bills,42,17801
+24,July,2016,02,Bills,32,17769
+25,July,2016,Sainsburys,Groceries,65,17704
+1,August,2016,Rhino Sports salary,General,1700,19404
+4,August,2016,Morrisons,Groceries,75,19329
+7,August,2016,Cubit and West rent,Rent,660,18669
+11,August,2016,Morrisons,Groceries,85,18584
+15,August,2016,BRGAS-Electricity,Bills,41,18543
+15,August,2016,BRGAS-Gas,Bills,42,18501
+16,August,2016,LBS Council Tax,Bills,50,18451
+18,August,2016,Tescos,Groceries,66,18385
+20,August,2016,VIRGIN MEDIA PYMTS,Bills,35,18350
+24,August,2016,02,Bills,32,18318
+25,August,2016,Sainsburys,Groceries,81,18237
+1,September,2016,Rhino Sports salary,General,1700,19937
+4,September,2016,Waitrose,Groceries,70,19867
+7,September,2016,Cubit and West rent,Rent,660,19207
+11,September,2016,Waitrose,Groceries,78,19129
+15,September,2016,BRGAS-Electricity,Bills,40,19089
+15,September,2016,BRGAS-Gas,Bills,42,19047
+16,September,2016,LBS Council Tax,Bills,50,18997
+18,September,2016,Waitrose,Groceries,73,18924
+20,September,2016,VIRGIN MEDIA PYMTS,Bills,53,18871
+24,September,2016,02,Bills,37,18834
+25,September,2016,Waitrose,Groceries,80,18754
+1,October,2016,Rhino Sports salary,General,1700,20454
+4,October,2016,Waitrose,Groceries,77,20377
+7,October,2016,Cubit and West rent,Rent,660,19717
+11,October,2016,Sainsburys,Groceries,73,19644
+15,October,2016,BRGAS-Electricity,Bills,24,19620
+15,October,2016,BRGAS-Gas,Bills,37,19583
+16,October,2016,LBS Council Tax,Bills,50,19533
+18,October,2016,Morrisons,Groceries,81,19452
+20,October,2016,VIRGIN MEDIA PYMTS,Bills,54,19398
+24,October,2016,02,Bills,35,19363
+25,October,2016,Morrisons,Groceries,66,19297
+1,November,2016,Rhino Sports salary,General,1700,20997
+4,November,2016,Morrisons,Groceries,75,20922
+7,November,2016,Cubit and West rent,Rent,660,20262
+11,November,2016,Tescos,Groceries,65,20197
+15,November,2016,BRGAS-Electricity,Bills,34,20163
+15,November,2016,BRGAS-Gas,Bills,35,20128
+16,November,2016,LBS Council Tax,Bills,50,20078
+18,November,2016,Tescos,Groceries,77,20001
+20,November,2016,VIRGIN MEDIA PYMTS,Bills,29,19972
+24,November,2016,02,Bills,30,19942
+25,November,2016,Morrisons,Groceries,86,19856
+1,December,2016,Rhino Sports salary,General,1700,21556
+4,December,2016,Sainsburys,Groceries,55,21501
+7,December,2016,Cubit and West rent,Rent,660,20841
+11,December,2016,Tescos,Groceries,72,20769
+15,December,2016,BRGAS-Electricity,Bills,49,20720
+15,December,2016,BRGAS-Gas,Bills,40,20680
+16,December,2016,LBS Council Tax,Bills,50,20630
+18,December,2016,ASDA,Groceries,80,20550
+20,December,2016,VIRGIN MEDIA PYMTS,Bills,48,20502
+24,December,2016,02,Bills,34,20468
+25,December,2016,Tescos,Groceries,45,20423
+1,January,2015,Rhino Sports salary,General,1700,22123
+4,January,2015,ASDA,Groceries,88,22035
+7,January,2015,Cubit and West rent,Rent,660,21375
+11,January,2015,ASDA,Groceries,61,21314
+15,January,2015,BRGAS-Electricity,Bills,70,21244
+15,January,2015,BRGAS-Gas,Bills,42,21202
+16,January,2015,LBS Council Tax,Bills,50,21152
+18,January,2015,Sainsburys,Groceries,87,21065
+20,January,2015,VIRGIN MEDIA PYMTS,Bills,37,21028
+24,January,2015,02,Bills,38,20990
+25,January,2015,Waitrose,Groceries,59,20931
+1,February,2015,Rhino Sports salary,General,1700,22631
+4,February,2015,Morrisons,Groceries,45,22586
+7,February,2015,Cubit and West rent,Rent,660,21926
+11,February,2015,ASDA,Groceries,71,21855
+15,February,2015,BRGAS-Electricity,Bills,44,21811
+15,February,2015,BRGAS-Gas,Bills,68,21743
+16,February,2015,LBS Council Tax,Bills,50,21693
+18,February,2015,ASDA,Groceries,79,21614
+20,February,2015,VIRGIN MEDIA PYMTS,Bills,33,21581
+24,February,2015,02,Bills,32,21549
+25,February,2015,Sainsburys,Groceries,74,21475
+1,March,2015,Rhino Sports salary,General,1700,23175
+4,March,2015,Tescos,Groceries,81,23094
+7,March,2015,Cubit and West rent,Rent,660,22434
+11,March,2015,Waitrose,Groceries,63,22371
+15,March,2015,BRGAS-Electricity,Bills,39,22332
+15,March,2015,BRGAS-Gas,Bills,36,22296
+16,March,2015,LBS Council Tax,Bills,50,22246
+18,March,2015,Waitrose,Groceries,80,22166
+20,March,2015,VIRGIN MEDIA PYMTS,Bills,32,22134
+24,March,2015,02,Bills,30,22104
+25,March,2015,Tescos,Groceries,44,22060
+1,April,2015,Rhino Sports salary,General,1700,23760
+4,April,2015,Tescos,Groceries,42,23718
+7,April,2015,Cubit and West rent,Rent,660,23058
+11,April,2015,ASDA,Groceries,51,23007
+15,April,2015,BRGAS-Electricity,Bills,26,22981
+15,April,2015,BRGAS-Gas,Bills,36,22945
+16,April,2015,LBS Council Tax,Bills,50,22895
+18,April,2015,ASDA,Groceries,77,22818
+20,April,2015,VIRGIN MEDIA PYMTS,Bills,43,22775
+24,April,2015,02,Bills,32,22743
+25,April,2015,ASDA,Groceries,52,22691
+1,May,2015,Rhino Sports salary,General,1700,24391
+4,May,2015,Morrisons,Groceries,71,24320
+7,May,2015,Cubit and West rent,Rent,660,23660
+11,May,2015,Morrisons,Groceries,78,23582
+15,May,2015,BRGAS-Electricity,Bills,38,23544
+15,May,2015,BRGAS-Gas,Bills,29,23515
+16,May,2015,LBS Council Tax,Bills,50,23465
+18,May,2015,Sainsburys,Groceries,87,23378
+20,May,2015,VIRGIN MEDIA PYMTS,Bills,36,23342
+24,May,2015,02,Bills,31,23311
+25,May,2015,Sainsburys,Groceries,76,23235
+1,June,2015,Rhino Sports salary,General,1700,24935
+4,June,2015,Morrisons,Groceries,76,24859
+7,June,2015,Cubit and West rent,Rent,660,24199
+11,June,2015,ASDA,Groceries,80,24119
+15,June,2015,BRGAS-Electricity,Bills,35,24084
+15,June,2015,BRGAS-Gas,Bills,39,24045
+16,June,2015,LBS Council Tax,Bills,50,23995
+18,June,2015,Morrisons,Groceries,67,23928
+20,June,2015,VIRGIN MEDIA PYMTS,Bills,31,23897
+24,June,2015,02,Bills,31,23866
+25,June,2015,Tescos,Groceries,53,23813
+1,July,2015,Rhino Sports salary,General,1700,25513
+4,July,2015,ASDA,Groceries,61,25452
+7,July,2015,Cubit and West rent,Rent,660,24792
+11,July,2015,ASDA,Groceries,78,24714
+15,July,2015,BRGAS-Electricity,Bills,29,24685
+15,July,2015,BRGAS-Gas,Bills,41,24644
+16,July,2015,LBS Council Tax,Bills,50,24594
+18,July,2015,Morrisons,Groceries,63,24531
+20,July,2015,VIRGIN MEDIA PYMTS,Bills,35,24496
+24,July,2015,02,Bills,32,24464
+25,July,2015,Sainsburys,Groceries,65,24399
+1,August,2015,Rhino Sports salary,General,1700,26099
+4,August,2015,Waitrose,Groceries,49,26050
+7,August,2015,Cubit and West rent,Rent,660,25390
+11,August,2015,ASDA,Groceries,72,25318
+15,August,2015,BRGAS-Electricity,Bills,23,25295
+15,August,2015,BRGAS-Gas,Bills,39,25256
+16,August,2015,LBS Council Tax,Bills,50,25206
+18,August,2015,Morrisons,Groceries,44,25162
+20,August,2015,VIRGIN MEDIA PYMTS,Bills,50,25112
+24,August,2015,02,Bills,36,25076
+25,August,2015,Sainsburys,Groceries,56,25020
+1,September,2015,Rhino Sports salary,General,1700,26720
+4,September,2015,Sainsburys,Groceries,61,26659
+7,September,2015,Cubit and West rent,Rent,660,25999
+11,September,2015,Tescos,Groceries,61,25938
+15,September,2015,BRGAS-Electricity,Bills,23,25915
+15,September,2015,BRGAS-Gas,Bills,42,25873
+16,September,2015,LBS Council Tax,Bills,50,25823
+18,September,2015,Waitrose,Groceries,64,25759
+20,September,2015,VIRGIN MEDIA PYMTS,Bills,54,25705
+24,September,2015,02,Bills,34,25671
+25,September,2015,Sainsburys,Groceries,59,25612
+1,October,2015,Rhino Sports salary,General,1700,27312
+4,October,2015,Sainsburys,Groceries,74,27238
+7,October,2015,Cubit and West rent,Rent,660,26578
+11,October,2015,Morrisons,Groceries,46,26532
+15,October,2015,BRGAS-Electricity,Bills,31,26501
+15,October,2015,BRGAS-Gas,Bills,28,26473
+16,October,2015,LBS Council Tax,Bills,50,26423
+18,October,2015,Waitrose,Groceries,73,26350
+20,October,2015,VIRGIN MEDIA PYMTS,Bills,28,26322
+24,October,2015,02,Bills,36,26286
+25,October,2015,Sainsburys,Groceries,80,26206
+1,November,2015,Rhino Sports salary,General,1700,27906
+4,November,2015,Sainsburys,Groceries,87,27819
+7,November,2015,Cubit and West rent,Rent,660,27159
+11,November,2015,Tescos,Groceries,71,27088
+15,November,2015,BRGAS-Electricity,Bills,23,27065
+15,November,2015,BRGAS-Gas,Bills,22,27043
+16,November,2015,LBS Council Tax,Bills,50,26993
+18,November,2015,Sainsburys,Groceries,61,26932
+20,November,2015,VIRGIN MEDIA PYMTS,Bills,43,26889
+24,November,2015,02,Bills,31,26858
+25,November,2015,ASDA,Groceries,60,26798
+1,December,2015,Rhino Sports salary,General,1700,28498
+4,December,2015,Waitrose,Groceries,63,28435
+7,December,2015,Cubit and West rent,Rent,660,27775
+11,December,2015,Sainsburys,Groceries,58,27717
+15,December,2015,BRGAS-Electricity,Bills,36,27681
+15,December,2015,BRGAS-Gas,Bills,71,27610
+16,December,2015,LBS Council Tax,Bills,50,27560
+18,December,2015,Waitrose,Groceries,88,27472
+20,December,2015,VIRGIN MEDIA PYMTS,Bills,57,27415
+24,December,2015,02,Bills,38,27377
+25,December,2015,Waitrose,Groceries,58,27319
+1,January,2014,Rhino Sports salary,General,1700,29019
+4,January,2014,ASDA,Groceries,87,28932
+7,January,2014,Cubit and West rent,Rent,660,28272
+11,January,2014,Sainsburys,Groceries,82,28190
+15,January,2014,BRGAS-Electricity,Bills,39,28151
+15,January,2014,BRGAS-Gas,Bills,43,28108
+16,January,2014,LBS Council Tax,Bills,50,28058
+18,January,2014,Waitrose,Groceries,87,27971
+20,January,2014,VIRGIN MEDIA PYMTS,Bills,37,27934
+24,January,2014,02,Bills,30,27904
+25,January,2014,ASDA,Groceries,81,27823
+1,February,2014,Rhino Sports salary,General,1700,29523
+4,February,2014,Tescos,Groceries,50,29473
+7,February,2014,Cubit and West rent,Rent,660,28813
+11,February,2014,Morrisons,Groceries,85,28728
+15,February,2014,BRGAS-Electricity,Bills,53,28675
+15,February,2014,BRGAS-Gas,Bills,66,28609
+16,February,2014,LBS Council Tax,Bills,50,28559
+18,February,2014,Tescos,Groceries,42,28517
+20,February,2014,VIRGIN MEDIA PYMTS,Bills,28,28489
+24,February,2014,02,Bills,30,28459
+25,February,2014,ASDA,Groceries,74,28385
+1,March,2014,Rhino Sports salary,General,1700,30085
+4,March,2014,Tescos,Groceries,74,30011
+7,March,2014,Cubit and West rent,Rent,660,29351
+11,March,2014,ASDA,Groceries,49,29302
+15,March,2014,BRGAS-Electricity,Bills,34,29268
+15,March,2014,BRGAS-Gas,Bills,30,29238
+16,March,2014,LBS Council Tax,Bills,50,29188
+18,March,2014,Waitrose,Groceries,69,29119
+20,March,2014,VIRGIN MEDIA PYMTS,Bills,57,29062
+24,March,2014,02,Bills,34,29028
+25,March,2014,Morrisons,Groceries,86,28942
+1,April,2014,Rhino Sports salary,General,1700,30642
+4,April,2014,Sainsburys,Groceries,47,30595
+7,April,2014,Cubit and West rent,Rent,660,29935
+11,April,2014,ASDA,Groceries,76,29859
+15,April,2014,BRGAS-Electricity,Bills,23,29836
+15,April,2014,BRGAS-Gas,Bills,25,29811
+16,April,2014,LBS Council Tax,Bills,50,29761
+18,April,2014,Sainsburys,Groceries,77,29684
+20,April,2014,VIRGIN MEDIA PYMTS,Bills,33,29651
+24,April,2014,02,Bills,34,29617
+25,April,2014,Waitrose,Groceries,78,29539
+1,May,2014,Rhino Sports salary,General,1700,31239
+4,May,2014,Tescos,Groceries,61,31178
+7,May,2014,Cubit and West rent,Rent,660,30518
+11,May,2014,Morrisons,Groceries,82,30436
+15,May,2014,BRGAS-Electricity,Bills,27,30409
+15,May,2014,BRGAS-Gas,Bills,39,30370
+16,May,2014,LBS Council Tax,Bills,50,30320
+18,May,2014,Morrisons,Groceries,89,30231
+20,May,2014,VIRGIN MEDIA PYMTS,Bills,41,30190
+24,May,2014,02,Bills,34,30156
+25,May,2014,Sainsburys,Groceries,73,30083
+1,June,2014,Rhino Sports salary,General,1700,31783
+4,June,2014,Tescos,Groceries,87,31696
+7,June,2014,Cubit and West rent,Rent,660,31036
+11,June,2014,Morrisons,Groceries,82,30954
+15,June,2014,BRGAS-Electricity,Bills,35,30919
+15,June,2014,BRGAS-Gas,Bills,27,30892
+16,June,2014,LBS Council Tax,Bills,50,30842
+18,June,2014,Tescos,Groceries,58,30784
+20,June,2014,VIRGIN MEDIA PYMTS,Bills,43,30741
+24,June,2014,02,Bills,30,30711
+25,June,2014,Tescos,Groceries,73,30638
+1,July,2014,Rhino Sports salary,General,1700,32338
+4,July,2014,Morrisons,Groceries,43,32295
+7,July,2014,Cubit and West rent,Rent,660,31635
+11,July,2014,Waitrose,Groceries,76,31559
+15,July,2014,BRGAS-Electricity,Bills,23,31536
+15,July,2014,BRGAS-Gas,Bills,25,31511
+16,July,2014,LBS Council Tax,Bills,50,31461
+18,July,2014,Waitrose,Groceries,42,31419
+20,July,2014,VIRGIN MEDIA PYMTS,Bills,49,31370
+24,July,2014,02,Bills,34,31336
+25,July,2014,Sainsburys,Groceries,78,31258
+1,August,2014,Rhino Sports salary,General,1700,32958
+4,August,2014,Tescos,Groceries,65,32893
+7,August,2014,Cubit and West rent,Rent,660,32233
+11,August,2014,ASDA,Groceries,69,32164
+15,August,2014,BRGAS-Electricity,Bills,44,32120
+15,August,2014,BRGAS-Gas,Bills,21,32099
+16,August,2014,LBS Council Tax,Bills,50,32049
+18,August,2014,Waitrose,Groceries,46,32003
+20,August,2014,VIRGIN MEDIA PYMTS,Bills,46,31957
+24,August,2014,02,Bills,31,31926
+25,August,2014,Sainsburys,Groceries,61,31865
+1,September,2014,Rhino Sports salary,General,1700,33565
+4,September,2014,Waitrose,Groceries,45,33520
+7,September,2014,Cubit and West rent,Rent,660,32860
+11,September,2014,Waitrose,Groceries,51,32809
+15,September,2014,BRGAS-Electricity,Bills,31,32778
+15,September,2014,BRGAS-Gas,Bills,41,32737
+16,September,2014,LBS Council Tax,Bills,50,32687
+18,September,2014,Tescos,Groceries,85,32602
+20,September,2014,VIRGIN MEDIA PYMTS,Bills,58,32544
+24,September,2014,02,Bills,37,32507
+25,September,2014,Morrisons,Groceries,82,32425
+1,October,2014,Rhino Sports salary,General,1700,34125
+4,October,2014,Sainsburys,Groceries,44,34081
+7,October,2014,Cubit and West rent,Rent,660,33421
+11,October,2014,Morrisons,Groceries,83,33338
+15,October,2014,BRGAS-Electricity,Bills,44,33294
+15,October,2014,BRGAS-Gas,Bills,43,33251
+16,October,2014,LBS Council Tax,Bills,50,33201
+18,October,2014,Waitrose,Groceries,63,33138
+20,October,2014,VIRGIN MEDIA PYMTS,Bills,38,33100
+24,October,2014,02,Bills,34,33066
+25,October,2014,Morrisons,Groceries,61,33005
+1,November,2014,Rhino Sports salary,General,1700,34705
+4,November,2014,Tescos,Groceries,83,34622
+7,November,2014,Cubit and West rent,Rent,660,33962
+11,November,2014,Tescos,Groceries,60,33902
+15,November,2014,BRGAS-Electricity,Bills,30,33872
+15,November,2014,BRGAS-Gas,Bills,44,33828
+16,November,2014,LBS Council Tax,Bills,50,33778
+18,November,2014,Sainsburys,Groceries,48,33730
+20,November,2014,VIRGIN MEDIA PYMTS,Bills,46,33684
+24,November,2014,02,Bills,31,33653
+25,November,2014,ASDA,Groceries,66,33587
+1,December,2014,Rhino Sports salary,General,1700,35287
+4,December,2014,Sainsburys,Groceries,61,35226
+7,December,2014,Cubit and West rent,Rent,660,34566
+11,December,2014,ASDA,Groceries,59,34507
+15,December,2014,BRGAS-Electricity,Bills,75,34432
+15,December,2014,BRGAS-Gas,Bills,59,34373
+16,December,2014,LBS Council Tax,Bills,50,34323
+18,December,2014,ASDA,Groceries,48,34275
+20,December,2014,VIRGIN MEDIA PYMTS,Bills,37,34238
+24,December,2014,02,Bills,30,34208
+25,December,2014,ASDA,Groceries,80,34128
+1,January,2013,Rhino Sports salary,General,1700,35828
+4,January,2013,ASDA,Groceries,87,35741
+7,January,2013,Cubit and West rent,Rent,660,35081
+11,January,2013,Morrisons,Groceries,88,34993
+15,January,2013,BRGAS-Electricity,Bills,36,34957
+15,January,2013,BRGAS-Gas,Bills,40,34917
+16,January,2013,LBS Council Tax,Bills,50,34867
+18,January,2013,Tescos,Groceries,81,34786
+20,January,2013,VIRGIN MEDIA PYMTS,Bills,41,34745
+24,January,2013,02,Bills,34,34711
+25,January,2013,ASDA,Groceries,74,34637
+1,February,2013,Rhino Sports salary,General,1700,36337
+4,February,2013,Tescos,Groceries,53,36284
+7,February,2013,Cubit and West rent,Rent,660,35624
+11,February,2013,Tescos,Groceries,89,35535
+15,February,2013,BRGAS-Electricity,Bills,37,35498
+15,February,2013,BRGAS-Gas,Bills,32,35466
+16,February,2013,LBS Council Tax,Bills,50,35416
+18,February,2013,Tescos,Groceries,79,35337
+20,February,2013,VIRGIN MEDIA PYMTS,Bills,50,35287
+24,February,2013,02,Bills,34,35253
+25,February,2013,Sainsburys,Groceries,75,35178
+1,March,2013,Rhino Sports salary,General,1700,36878
+4,March,2013,Morrisons,Groceries,74,36804
+7,March,2013,Cubit and West rent,Rent,660,36144
+11,March,2013,Tescos,Groceries,77,36067
+15,March,2013,BRGAS-Electricity,Bills,22,36045
+15,March,2013,BRGAS-Gas,Bills,31,36014
+16,March,2013,LBS Council Tax,Bills,50,35964
+18,March,2013,Waitrose,Groceries,83,35881
+20,March,2013,VIRGIN MEDIA PYMTS,Bills,59,35822
+24,March,2013,02,Bills,30,35792
+25,March,2013,Waitrose,Groceries,68,35724
+1,April,2013,Rhino Sports salary,General,1700,37424
+4,April,2013,Morrisons,Groceries,56,37368
+7,April,2013,Cubit and West rent,Rent,660,36708
+11,April,2013,ASDA,Groceries,68,36640
+15,April,2013,BRGAS-Electricity,Bills,26,36614
+15,April,2013,BRGAS-Gas,Bills,35,36579
+16,April,2013,LBS Council Tax,Bills,50,36529
+18,April,2013,Sainsburys,Groceries,43,36486
+20,April,2013,VIRGIN MEDIA PYMTS,Bills,30,36456
+24,April,2013,02,Bills,34,36422
+25,April,2013,Tescos,Groceries,48,36374
+1,May,2013,Rhino Sports salary,General,1700,38074
+4,May,2013,Morrisons,Groceries,87,37987
+7,May,2013,Cubit and West rent,Rent,660,37327
+11,May,2013,ASDA,Groceries,47,37280
+15,May,2013,BRGAS-Electricity,Bills,40,37240
+15,May,2013,BRGAS-Gas,Bills,40,37200
+16,May,2013,LBS Council Tax,Bills,50,37150
+18,May,2013,Waitrose,Groceries,58,37092
+20,May,2013,VIRGIN MEDIA PYMTS,Bills,31,37061
+24,May,2013,02,Bills,36,37025
+25,May,2013,Waitrose,Groceries,88,36937
+1,June,2013,Rhino Sports salary,General,1700,38637
+4,June,2013,ASDA,Groceries,87,38550
+7,June,2013,Cubit and West rent,Rent,660,37890
+11,June,2013,Sainsburys,Groceries,57,37833
+15,June,2013,BRGAS-Electricity,Bills,23,37810
+15,June,2013,BRGAS-Gas,Bills,39,37771
+16,June,2013,LBS Council Tax,Bills,50,37721
+18,June,2013,Morrisons,Groceries,70,37651
+20,June,2013,VIRGIN MEDIA PYMTS,Bills,52,37599
+24,June,2013,02,Bills,30,37569
+25,June,2013,Tescos,Groceries,81,37488
+1,July,2013,Rhino Sports salary,General,1700,39188
+4,July,2013,Morrisons,Groceries,87,39101
+7,July,2013,Cubit and West rent,Rent,660,38441
+11,July,2013,Morrisons,Groceries,70,38371
+15,July,2013,BRGAS-Electricity,Bills,26,38345
+15,July,2013,BRGAS-Gas,Bills,28,38317
+16,July,2013,LBS Council Tax,Bills,50,38267
+18,July,2013,Morrisons,Groceries,52,38215
+20,July,2013,VIRGIN MEDIA PYMTS,Bills,48,38167
+24,July,2013,02,Bills,34,38133
+25,July,2013,Sainsburys,Groceries,68,38065
+1,August,2013,Rhino Sports salary,General,1700,39765
+4,August,2013,Waitrose,Groceries,61,39704
+7,August,2013,Cubit and West rent,Rent,660,39044
+11,August,2013,Waitrose,Groceries,69,38975
+15,August,2013,BRGAS-Electricity,Bills,24,38951
+15,August,2013,BRGAS-Gas,Bills,21,38930
+16,August,2013,LBS Council Tax,Bills,50,38880
+18,August,2013,Sainsburys,Groceries,77,38803
+20,August,2013,VIRGIN MEDIA PYMTS,Bills,36,38767
+24,August,2013,02,Bills,37,38730
+25,August,2013,Waitrose,Groceries,74,38656
+1,September,2013,Rhino Sports salary,General,1700,40356
+4,September,2013,ASDA,Groceries,73,40283
+7,September,2013,Cubit and West rent,Rent,660,39623
+11,September,2013,Sainsburys,Groceries,80,39543
+15,September,2013,BRGAS-Electricity,Bills,34,39509
+15,September,2013,BRGAS-Gas,Bills,23,39486
+16,September,2013,LBS Council Tax,Bills,50,39436
+18,September,2013,Morrisons,Groceries,59,39377
+20,September,2013,VIRGIN MEDIA PYMTS,Bills,40,39337
+24,September,2013,02,Bills,33,39304
+25,September,2013,Waitrose,Groceries,81,39223
+1,October,2013,Rhino Sports salary,General,1700,40923
+4,October,2013,Sainsburys,Groceries,45,40878
+7,October,2013,Cubit and West rent,Rent,660,40218
+11,October,2013,Tescos,Groceries,70,40148
+15,October,2013,BRGAS-Electricity,Bills,39,40109
+15,October,2013,BRGAS-Gas,Bills,28,40081
+16,October,2013,LBS Council Tax,Bills,50,40031
+18,October,2013,Waitrose,Groceries,79,39952
+20,October,2013,VIRGIN MEDIA PYMTS,Bills,30,39922
+24,October,2013,02,Bills,38,39884
+25,October,2013,Waitrose,Groceries,78,39806
+1,November,2013,Rhino Sports salary,General,1700,41506
+4,November,2013,Morrisons,Groceries,53,41453
+7,November,2013,Cubit and West rent,Rent,660,40793
+11,November,2013,Morrisons,Groceries,68,40725
+15,November,2013,BRGAS-Electricity,Bills,28,40697
+15,November,2013,BRGAS-Gas,Bills,26,40671
+16,November,2013,LBS Council Tax,Bills,50,40621
+18,November,2013,Waitrose,Groceries,45,40576
+20,November,2013,VIRGIN MEDIA PYMTS,Bills,30,40546
+24,November,2013,02,Bills,31,40515
+25,November,2013,Waitrose,Groceries,83,40432
+1,December,2013,Rhino Sports salary,General,1700,42132
+4,December,2013,Sainsburys,Groceries,42,42090
+7,December,2013,Cubit and West rent,Rent,660,41430
+11,December,2013,ASDA,Groceries,47,41383
+15,December,2013,BRGAS-Electricity,Bills,53,41330
+15,December,2013,BRGAS-Gas,Bills,49,41281
+16,December,2013,LBS Council Tax,Bills,50,41231
+18,December,2013,Morrisons,Groceries,47,41184
+20,December,2013,VIRGIN MEDIA PYMTS,Bills,59,41125
+24,December,2013,02,Bills,33,41092
+25,December,2013,Tescos,Groceries,73,41019
+1,January,2012,Rhino Sports salary,General,1700,42719
+4,January,2012,Waitrose,Groceries,45,42674
+7,January,2012,Cubit and West rent,Rent,660,42014
+11,January,2012,Tescos,Groceries,85,41929
+15,January,2012,BRGAS-Electricity,Bills,80,41849
+15,January,2012,BRGAS-Gas,Bills,59,41790
+16,January,2012,LBS Council Tax,Bills,50,41740
+18,January,2012,ASDA,Groceries,49,41691
+20,January,2012,VIRGIN MEDIA PYMTS,Bills,45,41646
+24,January,2012,02,Bills,34,41612
+25,January,2012,Sainsburys,Groceries,55,41557
+1,February,2012,Rhino Sports salary,General,1700,43257
+4,February,2012,Sainsburys,Groceries,65,43192
+7,February,2012,Cubit and West rent,Rent,660,42532
+11,February,2012,Sainsburys,Groceries,56,42476
+15,February,2012,BRGAS-Electricity,Bills,59,42417
+15,February,2012,BRGAS-Gas,Bills,61,42356
+16,February,2012,LBS Council Tax,Bills,50,42306
+18,February,2012,Waitrose,Groceries,47,42259
+20,February,2012,VIRGIN MEDIA PYMTS,Bills,52,42207
+24,February,2012,02,Bills,38,42169
+25,February,2012,Sainsburys,Groceries,83,42086
+1,March,2012,Rhino Sports salary,General,1700,43786
+4,March,2012,Sainsburys,Groceries,73,43713
+7,March,2012,Cubit and West rent,Rent,660,43053
+11,March,2012,Morrisons,Groceries,52,43001
+15,March,2012,BRGAS-Electricity,Bills,21,42980
+15,March,2012,BRGAS-Gas,Bills,39,42941
+16,March,2012,LBS Council Tax,Bills,50,42891
+18,March,2012,Waitrose,Groceries,83,42808
+20,March,2012,VIRGIN MEDIA PYMTS,Bills,57,42751
+24,March,2012,02,Bills,30,42721
+25,March,2012,Tescos,Groceries,55,42666
+1,April,2012,Rhino Sports salary,General,1700,44366
+4,April,2012,Morrisons,Groceries,66,44300
+7,April,2012,Cubit and West rent,Rent,660,43640
+11,April,2012,Tescos,Groceries,62,43578
+15,April,2012,BRGAS-Electricity,Bills,33,43545
+15,April,2012,BRGAS-Gas,Bills,41,43504
+16,April,2012,LBS Council Tax,Bills,50,43454
+18,April,2012,ASDA,Groceries,71,43383
+20,April,2012,VIRGIN MEDIA PYMTS,Bills,41,43342
+24,April,2012,02,Bills,38,43304
+25,April,2012,Tescos,Groceries,74,43230
+1,May,2012,Rhino Sports salary,General,1700,44930
+4,May,2012,Morrisons,Groceries,45,44885
+7,May,2012,Cubit and West rent,Rent,660,44225
+11,May,2012,ASDA,Groceries,45,44180
+15,May,2012,BRGAS-Electricity,Bills,31,44149
+15,May,2012,BRGAS-Gas,Bills,38,44111
+16,May,2012,LBS Council Tax,Bills,50,44061
+18,May,2012,Sainsburys,Groceries,63,43998
+20,May,2012,VIRGIN MEDIA PYMTS,Bills,30,43968
+24,May,2012,02,Bills,38,43930
+25,May,2012,Tescos,Groceries,53,43877
+1,June,2012,Rhino Sports salary,General,1700,45577
+4,June,2012,ASDA,Groceries,84,45493
+7,June,2012,Cubit and West rent,Rent,660,44833
+11,June,2012,Sainsburys,Groceries,70,44763
+15,June,2012,BRGAS-Electricity,Bills,41,44722
+15,June,2012,BRGAS-Gas,Bills,28,44694
+16,June,2012,LBS Council Tax,Bills,50,44644
+18,June,2012,Morrisons,Groceries,70,44574
+20,June,2012,VIRGIN MEDIA PYMTS,Bills,48,44526
+24,June,2012,02,Bills,37,44489
+25,June,2012,Waitrose,Groceries,63,44426
+1,July,2012,Rhino Sports salary,General,1700,46126
+4,July,2012,ASDA,Groceries,52,46074
+7,July,2012,Cubit and West rent,Rent,660,45414
+11,July,2012,Sainsburys,Groceries,52,45362
+15,July,2012,BRGAS-Electricity,Bills,28,45334
+15,July,2012,BRGAS-Gas,Bills,33,45301
+16,July,2012,LBS Council Tax,Bills,50,45251
+18,July,2012,ASDA,Groceries,84,45167
+20,July,2012,VIRGIN MEDIA PYMTS,Bills,43,45124
+24,July,2012,02,Bills,34,45090
+25,July,2012,Morrisons,Groceries,75,45015
+1,August,2012,Rhino Sports salary,General,1700,46715
+4,August,2012,Tescos,Groceries,88,46627
+7,August,2012,Cubit and West rent,Rent,660,45967
+11,August,2012,ASDA,Groceries,68,45899
+15,August,2012,BRGAS-Electricity,Bills,43,45856
+15,August,2012,BRGAS-Gas,Bills,39,45817
+16,August,2012,LBS Council Tax,Bills,50,45767
+18,August,2012,Tescos,Groceries,79,45688
+20,August,2012,VIRGIN MEDIA PYMTS,Bills,35,45653
+24,August,2012,02,Bills,30,45623
+25,August,2012,Tescos,Groceries,75,45548
+1,September,2012,Rhino Sports salary,General,1700,47248
+4,September,2012,Tescos,Groceries,42,47206
+7,September,2012,Cubit and West rent,Rent,660,46546
+11,September,2012,ASDA,Groceries,82,46464
+15,September,2012,BRGAS-Electricity,Bills,24,46440
+15,September,2012,BRGAS-Gas,Bills,41,46399
+16,September,2012,LBS Council Tax,Bills,50,46349
+18,September,2012,Tescos,Groceries,53,46296
+20,September,2012,VIRGIN MEDIA PYMTS,Bills,41,46255
+24,September,2012,02,Bills,38,46217
+25,September,2012,Waitrose,Groceries,77,46140
+1,October,2012,Rhino Sports salary,General,1700,47840
+4,October,2012,Waitrose,Groceries,73,47767
+7,October,2012,Cubit and West rent,Rent,660,47107
+11,October,2012,ASDA,Groceries,51,47056
+15,October,2012,BRGAS-Electricity,Bills,35,47021
+15,October,2012,BRGAS-Gas,Bills,34,46987
+16,October,2012,LBS Council Tax,Bills,50,46937
+18,October,2012,Sainsburys,Groceries,42,46895
+20,October,2012,VIRGIN MEDIA PYMTS,Bills,59,46836
+24,October,2012,02,Bills,30,46806
+25,October,2012,Morrisons,Groceries,77,46729
+1,November,2012,Rhino Sports salary,General,1700,48429
+4,November,2012,Tescos,Groceries,46,48383
+7,November,2012,Cubit and West rent,Rent,660,47723
+11,November,2012,Waitrose,Groceries,55,47668
+15,November,2012,BRGAS-Electricity,Bills,23,47645
+15,November,2012,BRGAS-Gas,Bills,44,47601
+16,November,2012,LBS Council Tax,Bills,50,47551
+18,November,2012,Tescos,Groceries,46,47505
+20,November,2012,VIRGIN MEDIA PYMTS,Bills,43,47462
+24,November,2012,02,Bills,35,47427
+25,November,2012,Sainsburys,Groceries,68,47359
+1,December,2012,Rhino Sports salary,General,1700,49059
+4,December,2012,Tescos,Groceries,72,48987
+7,December,2012,Cubit and West rent,Rent,660,48327
+11,December,2012,Sainsburys,Groceries,48,48279
+15,December,2012,BRGAS-Electricity,Bills,89,48190
+15,December,2012,BRGAS-Gas,Bills,53,48137
+16,December,2012,LBS Council Tax,Bills,50,48087
+18,December,2012,ASDA,Groceries,77,48010
+20,December,2012,VIRGIN MEDIA PYMTS,Bills,58,47952
+24,December,2012,02,Bills,32,47920
+25,December,2012,ASDA,Groceries,87,47833
+1,January,2011,Rhino Sports salary,General,1700,49533
+4,January,2011,Morrisons,Groceries,56,49477
+7,January,2011,Cubit and West rent,Rent,660,48817
+11,January,2011,Waitrose,Groceries,52,48765
+15,January,2011,BRGAS-Electricity,Bills,30,48735
+15,January,2011,BRGAS-Gas,Bills,46,48689
+16,January,2011,LBS Council Tax,Bills,50,48639
+18,January,2011,ASDA,Groceries,78,48561
+20,January,2011,VIRGIN MEDIA PYMTS,Bills,31,48530
+24,January,2011,02,Bills,33,48497
+25,January,2011,Morrisons,Groceries,60,48437
+1,February,2011,Rhino Sports salary,General,1700,50137
+4,February,2011,Tescos,Groceries,86,50051
+7,February,2011,Cubit and West rent,Rent,660,49391
+11,February,2011,Sainsburys,Groceries,59,49332
+15,February,2011,BRGAS-Electricity,Bills,71,49261
+15,February,2011,BRGAS-Gas,Bills,42,49219
+16,February,2011,LBS Council Tax,Bills,50,49169
+18,February,2011,Sainsburys,Groceries,53,49116
+20,February,2011,VIRGIN MEDIA PYMTS,Bills,37,49079
+24,February,2011,02,Bills,35,49044
+25,February,2011,Sainsburys,Groceries,76,48968
+1,March,2011,Rhino Sports salary,General,1700,50668
+4,March,2011,Waitrose,Groceries,84,50584
+7,March,2011,Cubit and West rent,Rent,660,49924
+11,March,2011,ASDA,Groceries,59,49865
+15,March,2011,BRGAS-Electricity,Bills,36,49829
+15,March,2011,BRGAS-Gas,Bills,42,49787
+16,March,2011,LBS Council Tax,Bills,50,49737
+18,March,2011,Waitrose,Groceries,45,49692
+20,March,2011,VIRGIN MEDIA PYMTS,Bills,55,49637
+24,March,2011,02,Bills,31,49606
+25,March,2011,Sainsburys,Groceries,78,49528
+1,April,2011,Rhino Sports salary,General,1700,51228
+4,April,2011,Sainsburys,Groceries,85,51143
+7,April,2011,Cubit and West rent,Rent,660,50483
+11,April,2011,Waitrose,Groceries,81,50402
+15,April,2011,BRGAS-Electricity,Bills,26,50376
+15,April,2011,BRGAS-Gas,Bills,32,50344
+16,April,2011,LBS Council Tax,Bills,50,50294
+18,April,2011,Waitrose,Groceries,73,50221
+20,April,2011,VIRGIN MEDIA PYMTS,Bills,53,50168
+24,April,2011,02,Bills,34,50134
+25,April,2011,ASDA,Groceries,48,50086
+1,May,2011,Rhino Sports salary,General,1700,51786
+4,May,2011,Morrisons,Groceries,64,51722
+7,May,2011,Cubit and West rent,Rent,660,51062
+11,May,2011,Waitrose,Groceries,47,51015
+15,May,2011,BRGAS-Electricity,Bills,22,50993
+15,May,2011,BRGAS-Gas,Bills,30,50963
+16,May,2011,LBS Council Tax,Bills,50,50913
+18,May,2011,Tescos,Groceries,88,50825
+20,May,2011,VIRGIN MEDIA PYMTS,Bills,36,50789
+24,May,2011,02,Bills,30,50759
+25,May,2011,ASDA,Groceries,47,50712
+1,June,2011,Rhino Sports salary,General,1700,52412
+4,June,2011,Sainsburys,Groceries,85,52327
+7,June,2011,Cubit and West rent,Rent,660,51667
+11,June,2011,Sainsburys,Groceries,54,51613
+15,June,2011,BRGAS-Electricity,Bills,23,51590
+15,June,2011,BRGAS-Gas,Bills,29,51561
+16,June,2011,LBS Council Tax,Bills,50,51511
+18,June,2011,Tescos,Groceries,69,51442
+20,June,2011,VIRGIN MEDIA PYMTS,Bills,30,51412
+24,June,2011,02,Bills,31,51381
+25,June,2011,Tescos,Groceries,76,51305
+1,July,2011,Rhino Sports salary,General,1700,53005
+4,July,2011,Waitrose,Groceries,62,52943
+7,July,2011,Cubit and West rent,Rent,660,52283
+11,July,2011,ASDA,Groceries,63,52220
+15,July,2011,BRGAS-Electricity,Bills,42,52178
+15,July,2011,BRGAS-Gas,Bills,21,52157
+16,July,2011,LBS Council Tax,Bills,50,52107
+18,July,2011,ASDA,Groceries,81,52026
+20,July,2011,VIRGIN MEDIA PYMTS,Bills,48,51978
+24,July,2011,02,Bills,34,51944
+25,July,2011,Tescos,Groceries,66,51878
+1,August,2011,Rhino Sports salary,General,1700,53578
+4,August,2011,ASDA,Groceries,77,53501
+7,August,2011,Cubit and West rent,Rent,660,52841
+11,August,2011,Tescos,Groceries,60,52781
+15,August,2011,BRGAS-Electricity,Bills,41,52740
+15,August,2011,BRGAS-Gas,Bills,24,52716
+16,August,2011,LBS Council Tax,Bills,50,52666
+18,August,2011,Waitrose,Groceries,72,52594
+20,August,2011,VIRGIN MEDIA PYMTS,Bills,49,52545
+24,August,2011,02,Bills,30,52515
+25,August,2011,Morrisons,Groceries,44,52471
+1,September,2011,Rhino Sports salary,General,1700,54171
+4,September,2011,Tescos,Groceries,87,54084
+7,September,2011,Cubit and West rent,Rent,660,53424
+11,September,2011,Morrisons,Groceries,87,53337
+15,September,2011,BRGAS-Electricity,Bills,24,53313
+15,September,2011,BRGAS-Gas,Bills,28,53285
+16,September,2011,LBS Council Tax,Bills,50,53235
+18,September,2011,ASDA,Groceries,88,53147
+20,September,2011,VIRGIN MEDIA PYMTS,Bills,42,53105
+24,September,2011,02,Bills,35,53070
+25,September,2011,Sainsburys,Groceries,89,52981
+1,October,2011,Rhino Sports salary,General,1700,54681
+4,October,2011,Morrisons,Groceries,86,54595
+7,October,2011,Cubit and West rent,Rent,660,53935
+11,October,2011,ASDA,Groceries,82,53853
+15,October,2011,BRGAS-Electricity,Bills,38,53815
+15,October,2011,BRGAS-Gas,Bills,42,53773
+16,October,2011,LBS Council Tax,Bills,50,53723
+18,October,2011,Waitrose,Groceries,46,53677
+20,October,2011,VIRGIN MEDIA PYMTS,Bills,53,53624
+24,October,2011,02,Bills,32,53592
+25,October,2011,Morrisons,Groceries,55,53537
+1,November,2011,Rhino Sports salary,General,1700,55237
+4,November,2011,Sainsburys,Groceries,65,55172
+7,November,2011,Cubit and West rent,Rent,660,54512
+11,November,2011,Waitrose,Groceries,66,54446
+15,November,2011,BRGAS-Electricity,Bills,31,54415
+15,November,2011,BRGAS-Gas,Bills,42,54373
+16,November,2011,LBS Council Tax,Bills,50,54323
+18,November,2011,Morrisons,Groceries,66,54257
+20,November,2011,VIRGIN MEDIA PYMTS,Bills,39,54218
+24,November,2011,02,Bills,30,54188
+25,November,2011,ASDA,Groceries,46,54142
+1,December,2011,Rhino Sports salary,General,1700,55842
+4,December,2011,Waitrose,Groceries,42,55800
+7,December,2011,Cubit and West rent,Rent,660,55140
+11,December,2011,ASDA,Groceries,47,55093
+15,December,2011,BRGAS-Electricity,Bills,37,55056
+15,December,2011,BRGAS-Gas,Bills,61,54995
+16,December,2011,LBS Council Tax,Bills,50,54945
+18,December,2011,Morrisons,Groceries,84,54861
+20,December,2011,VIRGIN MEDIA PYMTS,Bills,58,54803
+24,December,2011,02,Bills,36,54767
+25,December,2011,Waitrose,Groceries,66,54701

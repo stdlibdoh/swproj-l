@@ -122,11 +122,11 @@ def statementGen(p):
         while d < end_date:
             if d.day is 1:
                 p.balance += p.month_salary
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"Rhino Sports salary","General", p.month_salary, p.balance])
+                statement.writerow([d.day,d.month,d.year,"Rhino Sports salary","General", p.month_salary, p.balance])
 
             if d.day is 7:
                 p.balance -= p.rent
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"Cubit and West rent","Rent", p.rent, p.balance])
+                statement.writerow([d.day,d.month,d.year,"Cubit and West rent","Rent", p.rent, p.balance])
 
             if d.day is 15:
                 gasVar = math.trunc(p.gas * random.uniform(0.7, 1.5))
@@ -136,34 +136,34 @@ def statementGen(p):
                     gasVar = math.trunc(gasVar * random.uniform(1, 2.5))
                     elecVar = math.trunc(elecVar * random.uniform(1, 2.5))
                 p.balance -= elecVar
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"BRGAS-Electricity","Bills",elecVar, p.balance])
+                statement.writerow([d.day,d.month,d.year,"BRGAS-Electricity","Bills",elecVar, p.balance])
                 p.balance -= gasVar
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"BRGAS-Gas","Bills",gasVar, p.balance])
+                statement.writerow([d.day,d.month,d.year,"BRGAS-Gas","Bills",gasVar, p.balance])
 
             if d.day is 16:
                 p.balance -= p.council_tax
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"LBS Council Tax","Bills",p.council_tax, p.balance])
+                statement.writerow([d.day,d.month,d.year,"LBS Council Tax","Bills",p.council_tax, p.balance])
 
             if d.day is 20:
                 internetVar = math.trunc(p.internet * random.uniform(0.7, 1.5))
                 p.balance -= internetVar
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"VIRGIN MEDIA PYMTS","Bills",internetVar, p.balance])
+                statement.writerow([d.day,d.month,d.year,"VIRGIN MEDIA PYMTS","Bills",internetVar, p.balance])
 
             if d.day is 24:
                 phoneVar = math.trunc(p.phone_bill * random.uniform(1, 1.3))
                 p.balance -= phoneVar
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"O2","Bills",phoneVar, p.balance])
+                statement.writerow([d.day,d.month,d.year,"O2","Bills",phoneVar, p.balance])
 
             #weekly shop on thursdays
             if d.weekday() is 4:
                  weekShop = math.trunc(p.grocery *random.uniform(0.7,1.5))
                  p.balance -= weekShop
-                 statement.writerow([d.day,monthlist[d.month-1],d.year,random.choice(groceryRetailers),"Groceries",weekShop,p.balance])
+                 statement.writerow([d.day,d.month,d.year,random.choice(groceryRetailers),"Groceries",weekShop,p.balance])
 
             if d.weekday() is 0:
                 transport_cost = math.trunc(p.transport * random.uniform(0.8,1.3))
                 p.balance -= transport_cost
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"South West Trains","Transport",transport_cost,p.balance])
+                statement.writerow([d.day,d.month,d.year,"South West Trains","Transport",transport_cost,p.balance])
 
 
             #coffee only on weekdays
@@ -171,44 +171,44 @@ def statementGen(p):
                 if random.randrange(100) > 20:
                     coffee = math.trunc(2*random.uniform(0.7,1.5))
                     p.balance -= coffee
-                    statement.writerow([d.day,monthlist[d.month-1],d.year,random.choice(coffeeRetailers),"Eating Out", coffee, p.balance])
+                    statement.writerow([d.day,d.month,d.year,random.choice(coffeeRetailers),"Eating Out", coffee, p.balance])
 
                 #work lunch on weekdays
-                if random.randrange(101) > 30:
+                if random.randrange(101) > 35:
                     lunch = math.trunc(6*random.uniform(0.7,1.5))
                     p.balance -= lunch
-                    statement.writerow([d.day,monthlist[d.month-1],d.year,random.choice(lunchRetailers),"Eating Out", lunch, p.balance])
+                    statement.writerow([d.day,d.month,d.year,random.choice(lunchRetailers),"Eating Out", lunch, p.balance])
 
             #club night
             if d.weekday() is 4 or d.weekday() is 5:
-                if random.randrange(100)>95:
+                if random.randrange(100) > 80:
                     num_of_drinks = random.randrange(7)
                     club = random.choice(pubs_and_clubs)
                     for i in range(num_of_drinks):
                         cost_of_round = math.trunc(10*random.uniform(0.5,1.7))
                         p.balance -= cost_of_round
-                        statement.writerow([d.day,monthlist[d.month-1],d.year,club,"Eating Out", cost_of_round, p.balance])
+                        statement.writerow([d.day,d.month,d.year,club,"Eating Out", cost_of_round, p.balance])
 
             #dinner out
             if d.weekday() is 4 or d.weekday() is 5 or d.weekday() is 6:
-                if random.randrange(100) > 80:
+                if random.randrange(100) > 60:
                     dinner = math.trunc(30*random.uniform(0.8,2))
                     p.balance -= dinner
-                    statement.writerow([d.day,monthlist[d.month-1],d.year,random.choice(restaurants),"Eating Out", dinner, p.balance])
+                    statement.writerow([d.day,d.month,d.year,random.choice(restaurants),"Eating Out", dinner, p.balance])
 
             #cash withdrawal
-            if random.randrange(100)>90:
-                cash_amount = math.trunc(1*random.uniform(1,10))*10
+            if random.randrange(100) > 70:
+                cash_amount = math.trunc(1*random.uniform(1,3))*10
                 p.balance -= cash_amount
-                statement.writerow([d.day,monthlist[d.month-1],d.year,"ATM Cash Withdrawal","General", cash_amount, p.balance])
+                statement.writerow([d.day,d.month,d.year,"ATM Cash Withdrawal","General", cash_amount, p.balance])
 
             #holiday
             if d.month > 5 and d.month < 9 and holiday == False:
-                if random.randrange(100) > 95:
+                if random.randrange(100) > 90:
                     holiday = True
                     flights = math.trunc(150*random.uniform(0.5,1.5))
                     p.balance -= flights
-                    statement.writerow([d.day,monthlist[d.month-1],d.year,"British Airways","General", flights, p.balance])
+                    statement.writerow([d.day,d.month,d.year,"British Airways","General", flights, p.balance])
 
             #reset holiday each year
             if holiday == True:
@@ -219,62 +219,6 @@ def statementGen(p):
             d += unit
 
 
-
-            #month
-            # for month in range(0,12,1):
-            #     #day
-            #     for i in range(1,monthlength[month]+1):
-            #         #bills
-            #         if i is 1:
-            #             p.balance += p.month_salary
-            #             statement.writerow([i,monthlist[month],year,"Rhino Sports salary","General", p.month_salary, p.balance])
-            #
-            #         if i is 7:
-            #             p.balance -= p.rent
-            #             statement.writerow([i,monthlist[month],year,"Cubit and West rent","Rent", p.rent, p.balance])
-            #
-            #         if i is 15:
-            #             gasVar = math.trunc(p.gas * random.uniform(0.7, 1.5))
-            #             elecVar = math.trunc(p.electricity * random.uniform(0.7, 1.5))
-            #             #multiplyer for winter months
-            #             if(month == 11 or month == 0 or month == 1):
-            #                 gasVar = math.trunc(gasVar * random.uniform(1, 2.5))
-            #                 elecVar = math.trunc(elecVar * random.uniform(1, 2.5))
-            #             p.balance -= elecVar
-            #             statement.writerow([i,monthlist[month],year,"BRGAS-Electricity","Bills",elecVar, p.balance])
-            #             p.balance -= gasVar
-            #             statement.writerow([i,monthlist[month],year,"BRGAS-Gas","Bills",gasVar, p.balance])
-            #
-            #         if i is 16:
-            #             p.balance -= p.council_tax
-            #             statement.writerow([i,monthlist[month],year,"LBS Council Tax","Bills",p.council_tax, p.balance])
-            #
-            #         if i is 20:
-            #             internetVar = math.trunc(p.internet * random.uniform(0.7, 1.5))
-            #             p.balance -= internetVar
-            #             statement.writerow([i,monthlist[month],year,"VIRGIN MEDIA PYMTS","Bills",internetVar, p.balance])
-            #
-            #         if i is 24:
-            #             phoneVar = math.trunc(p.phone_bill * random.uniform(1, 1.3))
-            #             p.balance -= phoneVar
-            #             statement.writerow([i,monthlist[month],year,"02","Bills",phoneVar, p.balance])
-            #
-            #         #weekly shop
-            #         if i%7 is 4:
-            #             weekShop = math.trunc(p.grocery *random.uniform(0.7,1.5))
-            #             p.balance -= weekShop
-            #             statement.writerow([i,monthlist[month],year,random.choice(groceryRetailers),"Groceries",weekShop,p.balance])
-            #         #random small shop
-
-
-
-
-
-
-
-
-            # print(year)
-            # year -= 1
 class Person:
     def __init__(self, rent, transport, grocery, gas, electricity, council_tax, internet, month_salary, phone_bill):
         self.rent = rent
@@ -291,7 +235,7 @@ class Person:
 
 
 def main():
-    person1 = Person(660,30,60,30,30,50,40,1700,30)
+    person1 = Person(550 ,30,60,30,30,50,40,1700,30)
     # expensereport()
     #disposableincome()
     statementGen(person1)

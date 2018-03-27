@@ -33,11 +33,22 @@ def extractBalance():
                 # if counter > 20:
                 #     break
 
-def concat(csv1, csv2):
+#just concatinates two csv files
+def ML_concat(csv1, csv2):
     main = open(csv1,"a")
     for row in open(csv2):
         main.write(row)
 
+#concatinates two csv files but ignores the header in
+#the joining csv file
+def bank_statement_concat(csv1, csv2):
+    main = open(csv1,"a")
+    first_row = True
+    for row in open(csv2):
+        if first_row:
+            first_row = False
+        else:
+            main.write(row)
 
 
 

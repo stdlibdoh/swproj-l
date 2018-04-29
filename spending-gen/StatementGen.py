@@ -112,8 +112,9 @@ def statementGen(p):
     lunchRetailers =["Subway","McDonalds","Pret A Manger", "Greggs","The West Cornwall Pasty Company","Chicken Cottage"]
     pubs_and_clubs = ["The Grand Pub","Fabric Club","Heaven Club","Ministry of Sound Club" "XOYO Club"]
     restaurants = ["Scott's Restaurant", "Restaurant Gordon Ramsay" "Portland Restaurant", "Anglo restaurant", "Pizza Express","Dominos Pizza"]
+    untagged = ["Cheam Service Station","Paying back James","Paying back Julie","Red Shop", "Tool Shop","Tool Tec", "Civic Shop"]
 
-    with open('statement.csv', 'w', newline='') as csv_file:
+    with open(p.name+'.csv', 'w', newline='') as csv_file:
         statement = csv.writer(csv_file, delimiter=',')
         statement.writerow(['Day','Month','Year','Description', 'Category','Value','Balance']);
 
@@ -210,6 +211,12 @@ def statementGen(p):
                     p.balance -= flights
                     statement.writerow([d.day,d.month,d.year,"British Airways","General", flights, p.balance])
 
+            #untagged elements
+            if random.randrange(100)>85:
+                untaggedItem = math.trunc(1*random.uniform(1,10))
+                p.balance -= untaggedItem
+                statement.writerow([d.day,d.month,d.year,random.choice(untagged),"", untaggedItem, p.balance])
+
             #reset holiday each year
             if holiday == True:
                 if d.year>current_year:
@@ -220,7 +227,8 @@ def statementGen(p):
 
 
 class Person:
-    def __init__(self, rent, transport, grocery, gas, electricity, council_tax, internet, month_salary, phone_bill):
+    def __init__(self, name, rent, transport, grocery, gas, electricity, council_tax, internet, month_salary, phone_bill):
+        self.name = name
         self.rent = rent
         self.transport = transport
         self.grocery = grocery
@@ -232,13 +240,55 @@ class Person:
         self.balance = 0
         self.phone_bill = phone_bill
 
+def extractBalance(csv_path, p):
+    with open(csv_path) as csvfile:
+        reader = csv.reader(csvfile)
+        with open(p.name+"_ml.csv",'w',newline='') as ML_CSV:
+            writer = csv.writer(ML_CSV, delimiter=',')
+
+            # for row in reader:
+            #     writer.writerow([row[-1]])
+
+            firstLine = True
+            current_date = date(2010,1,1)
+            previous_date = date(2010,1,2)
+            previous_row = None
+
+            counter = 0
+            for row in reader:
+                if firstLine:
+                    firstLine = False
+                else:
+                    current_date = date(int(row[2]),int(row[1]),int(row[0]))
+                    if current_date != previous_date:
+                        difference_in_dates = current_date-previous_date
+                        difference_in_days = timedelta(difference_in_dates.days)
+                        for i in range(0,difference_in_days.days-1):
+                            writer.writerow([previous_row])
+
+                        previous_date = date(int(row[2]),int(row[1]),int(row[0]))
+                        previous_row = row[-1]
+                        writer.writerow([row[-1]])
+
+
+    return "/tmp/ML_CSV.csv"
 
 
 def main():
-    person1 = Person(550 ,30,60,30,30,50,40,1700,30)
+    person1 = Person("person_a", 400,20,50,20,20,20,20,1600,20)
+    person2 = Person("person_b",440,30,55,25,25,35,30,1600,25)
+    person3 = Person("person_c",550,30,60,30,30,50,40,1700,30)
+    # person3 = Person("person_c",700,40,80,40,40,70,50,1800,60)
     # expensereport()
     #disposableincome()
     statementGen(person1)
+    statementGen(person2)
+    statementGen(person3)
+
+    extractBalance("person_a.csv",person1)
+    extractBalance("person_b.csv",person2)
+    extractBalance("person_c.csv",person3)
+
     #statementGen(660,92,60,30, 50, 40,1700)
 
 main()
